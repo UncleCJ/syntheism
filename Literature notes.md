@@ -9,6 +9,59 @@ Where do we take these? An animation, fortune cookies, inspirational posters, an
 The numbers referred are for practical reasons [kindle locations](https://www.amazon.com/forum/kindle?_encoding=UTF8&cdForum=Fx1D7SY3BVSESG&cdThread=Tx2LHN7MUWM4WV0
 ), possibly each corresponding to 128 bytes of text including formatting.
 
+## The Futurica Trilogy Contents ##
+
+**The Netocrats –The Futurica Trilogy, Part 1 (Loc 45)**
+
+- Introduction
+- 1. Technology as the driving force of history
+- 2. Feudalism, capitalism and informationalism
+- 3. Plurarchal society –the death of etatism and the crisis of democracy
+- 4. Information, propaganda and entertainment
+- 5. Curators, nexialists and eternalists –The netocrats and their world-view
+- 6. Globalisation, the death of mass media and the growth of the consumtariat
+- 7. The new biology and netocratic ethics
+- 8. The convulsions of collectivity, the death of man and the virtual subject
+- 9. Network pyramids –attentionalistic power hierarchies
+- 10. Sex and tribalism, virtual education and the inequality of the brain
+- 11. Behind the firewalls –netocratic civil war and virtual revolutionaries
+
+**The Global Empire –The Futurica Trilogy, Part 2 (Loc 3270)**
+
+- 1. The Road to the World State and History as a Process of Domestication
+- 2. Empire, Plurarchy and the Virtual Nomadic Tribe
+- 3. The Genealogy of Netocratic Ethics
+- 4. The Renaissance of Ideology (Loc 4498)
+- 5. The Dialectic between Eternalism and Mobilism (Loc 4853)
+- 6. The Paradox of Metaphysics and the Metaphysics of Paradoxism (Loc 5187)
+- 7. The Meteorology of Knowledge and the Paradoxical Subject (Loc 5424)
+- 8. Eternalism’s Radical Pragmatism (Loc 5807)
+- 9. Neo-Darwinism and Horizontal Biology
+- 10. The War between the Replicators –the Memes’ Victory over the Genes (Loc 6402)
+- 11. Perforated Bodies and Chemical Liberation (Loc 6656)
+- 12. Socioanalytical Ethics and the Collapse of the Capitalist Left (Loc 6981)
+- 13. The Ecstasy of the Event and the Fading Gaze of Nature (Loc 7338)
+- 14. Nazism as a Sociotechnological Phenomenon (Loc 7701)
+- 15. Sex, Power and Network Dynamics –the Necessary Metamorphosis of Feminism (Loc 7933)
+- 16. The Infrastructure of the Empire and Eternalism’s Moral Imperative
+
+**The Body Machines –The Futurica Trilogy, Part 3 (Loc 8427)**
+
+- 1. The Rise and Fall of the Soul
+- 2. A Brief History of the Brain
+- 3. The Problem With Subjectivity
+- 4. The Myth of the Ego
+- 5. The Myth of Free Will
+- 6. The Mechanisms of Thought
+- 7. A Short History of Language
+- 8. The Rise and Fall of Morality
+- 9. The Curse of Cultural Relativism
+- 10. The Ethics of Interactivity
+- 11. The Theory of Schizoanalysis
+- 12. The Practice of Schizoanalysis
+-  +1. (A Sort of Afterword)
+- Futurica Glossary
+
 ## The Netocrats –The Futurica Trilogy, Part 1 (Loc 45) ##
 
 65: Forming groups of people with common interests and coordinating action is not only possible, it comes completely natural for people young enough to have been growing up with the Internet as part of their social environment. They will demand accountability from those in power.
@@ -173,6 +226,8 @@ Things have to be fun at all times. If people are bored, they go somewhere else 
 
 4497: The table is set for a new period of enlightenment, and informationalism’s ethically inclined netocrats are ready to take power from capitalism’s bourgeois moralists.
 
+### 4. The Renaissance of Ideology (Loc 4498) ###
+
 4627: The relevant question that arises here is how the corresponding change will look in conjunction with our era’s transition from capitalism to informationalism. What is going on under the surface, in the collective subconscious? How are ecological changes affecting our worldview, and thereby our world? And what will the political consequences be? These questions can only be answered by an archaeological excavation in the ruins of capitalism.
 
 4632: Basically, however, these ideologies were merely variants of one and the same overriding idea of the State as the only legitimate instance of power: étatism, an idea which was in turn sanctioned by the metaphysics of capitalism: humanism. According to this idea, the State embodied the holy will of the people in the same way that the church had represented God’s interests on Earth during the feudalistic era.
@@ -203,12 +258,18 @@ Things have to be fun at all times. If people are bored, they go somewhere else 
 
 4824: An absence of ideology would require a scarcely plausible return to pure power-positivism: might is right. The existing need for ideology is therefore bound to be fulfilled. Vigilance in the form of a qualified debate is to be recommended, because hidden contradictions, like hidden coup-attempts, would be brought into the open thereby. It is in the impressionable introductory phase that the possibilities of exerting any influence are at their greatest.
 
+### 5. The Dialectic between Eternalism and Mobilism (Loc 4853) ###
+
 4928: Because language is a game with conventional symbols which refer horizontally to each other within the system’s closed halls of mirrors, it is extremely eternalising by nature. So philosophy can never reach nor describe immanent, mobilist reality as such, but at best merely produce a continuous series of eternalisations.
 This leads us to what is and must be the role of philosophy within informationalist society: to drive the eternalisation of existence as far as possible.
 
 5100: It is in the deathwish of the collective subconscious –in an understandable and apparently innocent, but ultimately life-denying desire to avoid the many trials of existence and achieve peace and quiet –that utopisms have always found their most fertile soil.
 
+### 6. The Paradox of Metaphysics and the Metaphysics of Paradoxism (Loc 5187) ###
+
 5223: Our perceptions of reality are no mystical reflections from some perfect platonic world of ideas, as totalism claims, but arise as ideological resonances in the soundbox we call the collective subconscious.
+
+### 7. The Meteorology of Knowledge and the Paradoxical Subject (Loc 5424) ###
 
 5435: The metaphysical basis for informationalist philosophy is becoming, for reasons which have been elaborated in the two previous chapters, our innate and inexhaustible need for a metaphysical basis itself. And there can be no more stable basis on which to build.
 
@@ -224,6 +285,8 @@ This leads us to what is and must be the role of philosophy within informational
 
 5712: On the one hand: the subject’s hard-won eternalistic self-image in the form of a container full to the brim of non-world. On the other hand: an indifferently amazed, mobilistic reverse image of the same subject in the form of a vacuum-pack with no content at all.
 
+### 8. Eternalism’s Radical Pragmatism (Loc 5807) ###
+
 5947: simpler because eternalist philosophy clears away a long series of wrongly-phrased and therefore meaningless questions from the agenda; more complicated because these wrongly-phrased questions were nevertheless based upon comfortable simplifications and were phrased to appeal to the old, secure, symbolic order of things.
 
 5983: A purely practical problem as far as twentieth-century thought is concerned has been the innate conservatism of academic institutions and their subordination to a paradigm which is on its last legs, which has hardly made it worthwhile to seek out creative new forms of thought in the old universities. Peer-pressure has hindered different forms of thought, the current university system of peer review has been devastating for philosophy, and the lack of competition has resulted in a lack of incentive to think differently;
@@ -231,6 +294,8 @@ This leads us to what is and must be the role of philosophy within informational
 6082: Nietzsche’s genealogist, Foucault’s archaeologist and eternalism’s meteorologist –rather than classical philosophy’s builder –are the credible ideals for anyone wanting to involve themselves in philosophy.
 
 6104: As one of three key-figures in the netocratic leadership troika, the eternalist philosopher is a close friend of contradictions. He is a genealogist who maps the historical preconditions for society as it exists now, a meteorologist of knowledge who produces and revises forecasts about society’s future shape, a socioanalyst who refines the horizontal model and deepens the understanding of the collective subject and its unconscious. Last but not least, he is an activist who places himself on the political map as an interactive component: in other words, the eternalist himself embodies the radical pragmatism which he produces and preaches. Without personal engagement, eternalism’s radical pragmatism would lose the attentionality so vital for informationalism, and the philosopher’s work would all be in vain right from the outset.
+
+### 10. The War between the Replicators –the Memes’ Victory over the Genes (Loc 6402) ###
 
 6448: The fictive balances between ingenious simplicity and comprehensive complexity: simplicity for the sake of comprehensibility, complexity for the sake of credibility; however, its complexity is only a fraction of that of the world it is intended to mirror. All the individual consciousness needs to do is to find, or rather, produce, enough fictives which seem to harmonise with one another, and a complete worldview arises in no time. The quality of all additional fictives is judged according to this worldview. Those fictives which are in tune with the governing worldview are accepted, the others rejected.
 It is here that memetics and eternalist philosophy begin to interact with one another, rather like the different components of epoxy glue. All we have to do is imagine eternalism’s fictives as transportable entities, like packages of information which can be communicated freely
@@ -240,6 +305,8 @@ It is here that memetics and eternalist philosophy begin to interact with one an
 6498: Genes and memes therefore often ‘want’ quite different things of the survival machines they share, and there are countless examples of the merciless power struggle involved, pulling the machine in different directions at the same time. It is important here to realise that neither of the replicators has our own human well-being in mind. They are fighting purely for their own survival.
 
 6542: The attempt to maintain the Cartesian subject is overwhelmingly the single most important factor behind the widespread sense of confusion and powerlessness which is dominating the social climate at the transition from capitalism to informationalism, a mental chaos which in turn attracts and contributes to popularising even older and more obsolete prejudices and myths, such as within the New Age movement, for instance.
+
+### 11. Perforated Bodies and Chemical Liberation (Loc 6656) ###
 
 6678: With hindsight, the Cartesian subject looks to be, at the very least, a hyperneurotic human ideal. Health and sobriety are transcendentalised. The concepts are so deeply ingrained in the aesthetics and morals of capitalist society that they are never questioned or even defined. With hindsight we can see how they could never have been defined, because they can never really be said to exist at all, other than as unrealistic platonic ideals. Instead, all available energy is focussed upon describing, and demonising, the opposites of both health and sobriety. According to demonological logic, it is enough to prove that their opposites exist in order to prove the existence of health and sobriety, which in turn explains why the capitalist era’s ideology-producers constructed two concepts which had been unknown before then: sickness and intoxication.
 In their capacity as the demonised opposites of the ideal, sickness and intoxication have become the system’s two mortal enemies, which have to be combated with the same frenzy as the faithful were expected to combat Satan during the feudal period. The fragile individual whose soul is not sufficiently robust to successfully drive off sickness and intoxication must consequently be punished with a declaration of incapacity.
@@ -258,6 +325,9 @@ In their capacity as the demonised opposites of the ideal, sickness and intoxica
 
 6820: This behaviour shows itself time after time to be crassly pragmatic; ethical or ontological questions are dealt with retrospectively. The main thing is that the heart beats and that the hip works. Consumer demand is guiding development with an iron hand.
 
+
+### 12. Socioanalytical Ethics and the Collapse of the Capitalist Left (Loc 6981) ###
+
 7007: The theory is based upon undermining the foundations of the existing hierarchical power-structure, so that this implodes, whereupon good forces can actively drive society towards a plurarchical state where everyone has power and determines their own actions, but lacks the power to decide what anyone else should do.
 
 7039: Instead, eternalistic activism takes the next logical step and problematises plurarchy itself, and uses this to promote politics whose focus is already beyond the initial chaos of plurarchy. It is not content, unlike the anti-global Left, with a narcissistic fascination with its own event. It does not see every demonstration watched by the media as a triumphant show of strength, but is clear about the underlying purpose of every demonstration. Eternalism’s political philosophy is a long-term strategy for civilisation building on a constantly more complex information technological platform.
@@ -267,6 +337,9 @@ In their capacity as the demonised opposites of the ideal, sickness and intoxica
 7145: Activists were reduced to either unconditional yes-men or traitors to the good cause, as a result of which the minority movements never succeeded in developing a dialectic dynamic, but instead stagnated in doctrinal paralysis.
 
 7222: The explanations for this phenomenon instead lie deep within the sociotechnological laws of network dynamics, which stem from fundamental meme-Darwinian survival principles. Escalated interactivity is indissolubly linked to escalated multiplicity; there is, for instance, an empirically proven connection between a greater visible degree of sexual variety and economic growth in the metropolitan areas of Europe and North America during late-capitalism. Environments in which homosexuals are included are simply more creative and openly tolerant than environments where they are excluded, and this creativity is something which no ambitious network can afford to be without.
+
+
+### 13. The Ecstasy of the Event and the Fading Gaze of Nature (Loc 7338) ###
 
 7484: As a result, we are acting as parasites on the suffering of others, putting on a theatrical performance of suffering, and producing a hollow moralism which lacks any long-term credibility. This results in an ideological vacuum which can only be filled by an ideology anchored in new conditions, and which only expands further if the discourse receives further suffering and moralism.
 
@@ -284,6 +357,9 @@ In their capacity as the demonised opposites of the ideal, sickness and intoxica
 
 7622: It is this scepticism towards the recent past which explains why the queer movement and chemical liberation are the first global mass movements in informationalist society. In both cases there are good opportunities to present strongly identity-producing resistance to governing norms –they are both fighting existing legislation in a long list of countries –but also a promise of collective ecstasy, which, according to eventology, is a necessary component in the imagined core of the virtual nomadic tribe.
 
+
+### 14. Nazism as a Sociotechnological Phenomenon (Loc 7701) ###
+
 7724: The Nazi reign of terror in Germany during the 1930s and 40s is a terrifying example of the destructive energies which could be developed in a society where a resonance arose between racism and the fascination of the age with the media and industrial technologies. Suddenly a largely unconscious, unformulated ideology, which otherwise manifested itself mostly as imprecise and poorly thought-out bar-room talk, could be sharpened to rhetorically perfect phrases and, via the megaphone of radio, be screamed into every citizen’s living-room.
 
 7801: The shaman must be banished and excluded in times of plenty, because it is his exclusion and his divergent perspective which makes him essential in times of need.
@@ -296,6 +372,9 @@ In their capacity as the demonised opposites of the ideal, sickness and intoxica
 
 7920: The good news is that moralism’s conditions for survival under informationalism are becoming increasingly bleak. Moralism’s self-aggrandisement is becoming more and more obvious, as is the absence of real morals.
 
+
+### 15. Sex, Power and Network Dynamics –the Necessary Metamorphosis of Feminism (Loc 7933) ###
+
 7966: This is not to say that feminism as it has been up to now ought to be judged a failure; its successes are unquestionable. But the question of activism’s goals must constantly be asked anew, particularly if the whole of society is undergoing radical change. At the same time as feminism has celebrated great triumphs during the final period of the capitalist paradigm, it is a fact that the patriarchal order has equally successfully survived by mutating and moving to the arenas where power itself has already moved. Clear-sightedness is always preferable to naïvety. For feminism to be a relevant meme, to informationalist networks in general, and to the netocratic woman in particular, it must be transformed into a transrationalist discourse. Feminism’s real enemy is not so much the other sex, as its own ideological rigidity.
 
 8035: If feminism has any relevance at all, if it is to be compatible with a civilisational project which neither can nor ought to be explained away, if it is not to reduce itself to being merely an escapist sect for self-obsessed and embittered ladies with an excess of energy, then it has to start attacking the patriarchal order with entirely different and considerably more sophisticated methods than sexual essences, social constructions and New Age mythological nonsense.
@@ -304,3 +383,41 @@ In their capacity as the demonised opposites of the ideal, sickness and intoxica
 
 8119: Because of this, Foucault’s ethical ideal was deemed to have been put into practice: power was silenced so that the powerless could make their voices heard uninterrupted. But this was a Pyrrhic victory. Admittedly, the powerless were allowed to speak, the fact that no-one was listening was ignored, so the powerless remained powerless. Plurarchy had already broken through so powerfully in the diversified media-landscape that the audience went home when it was no longer entertained by what was being said, or thought it irrelevant. Power nodded in a friendly but disengaged way, at the same time as it quickly moved to another arena.
 
+--
+
+## The Body Machines –The Futurica Trilogy, Part 3 (Loc 8427) ##
+
+8452: It guarantees a continuation of the life we are so reluctant to give up –and which we therefore need not care too much about how we live, or perhaps not even live particularly carefully at all, seeing as time, thanks to the soul, is unlimited –at the same time as it promises a total make-over of everyday greyness and exhaustion for anyone who plays their cards right. The soul thus constitutes the very cornerstone of the construct that imbues everything with a higher purpose. It's hardly surprising that this concept has proved incredibly popular.
+
+8505: The connection between body and soul is consequently not, as it was for Plato, anything that spiritually aware philosophers have the slightest reason to regret, but instead a precondition for life. And life interests Aristotle far more than pure thoughts in an imagined world that isn't ours. Everything living has a soul, people and animals and plants, and the various species’ souls vary in their development and degree of refinement. The fact that form is always superior to materia in Aristotle's hierarchy of world order does not mean that the body must be resisted or condemned.
+
+--
+
+10960: The attraction of the New-Age movement is a direct consequence of the growing fear of the specialisation of modern science. Increasing epistemic complexity demands a good deal of talent and knowledge if it is to be possible to combine it with a moralising and hierarchical social identity. So a supra-ideology emerges, levelling all human ideologies and fantasies, without allowing any empirical examination or argumentative comparison of the different ideas. This is the supreme instance of equivalence in thought: it's all just ‘theories’, and each one is as good as the next. Everyone is free to believe what they like. Everything is fine as long as it is sufficiently shocking and entertaining to win dissemination among old gossips and ayurveda clinics. The world can't be more complex than this, otherwise our blinkers go on. This is the core of the New-Age movement: being genuinely talented and able to think is synonymous with being cruel to people who are untalented. 
+This superficial attitude towards the Enlightenment's view of knowledge forces, paradoxically, the New-Age movement to create a huge demon which has to be presented as precisely inferior to all other fantasies –in other words, modern science itself. In order for chakra healing and pyramid energy to look like legitimate and interesting fields of knowledge, in order for ayurvedic treatments to be sold at a healthy profit, modern, high-technological discoveries such as the brain-scanner and the space telescope must be demonised. Knowledge is becoming evil.
+
+--
+
+Syntheism
+
+## Syntheism contents ##
+
+- 1. Everything is religion
+- 2. The three dramatic revolutions of the Internet age
+- 3. The four paradigms in the history of metaphysics
+- 4. Living religion versus deadly alienation
+- 5. The syntheological pyramid –Atheos, Pantheos, Entheos and Syntheos
+- 6. Irreducible multiplicity –syntheism as a process religion
+- 7. Intensities and phenomena in a relationalist universe
+- 8. From semiotics via memetics to the collapse of militant atheism
+- 9. The syntheist agent and her desires and drives
+- 10. The free and open Internet versus the ecological apocalypse
+- 11. Syntheism as a radicalisation of atheism –and its dialectical dissolution
+- 12. Truth as an act –the road to the fourth singularity
+- 13. Participatory culture, religious rituals and psychedelic practices
+- 14. Syntheist temples and monasteries in the global empire
+- Glossary
+
+4462: Under capitalism, the new literate nation state replaces the old illiterate Church as the common arena, and the statist articulation says that society is a body. But the body metaphor –which statism obviously borrows from the ecclesiastical articulation that says that the congregation is a body –must be exposed. For society as a body never generates any narrative for increased cohesiveness, as Michel Foucault points out, but instead functions as a latent threat to the deviant person in the nation state. It is perfectly possible to be an individual, but it is only acceptable to be exactly the individual who maximises her own frustration, alienation and consumption, and who pays for all this by maximising her production for the capitalist power structure, moreover in the shadow of the prevailing phantasmic behavioural imperative: Whatever you do, blend in!
+
+--
