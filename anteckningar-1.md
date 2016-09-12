@@ -6,7 +6,7 @@
 * [Är 2016 året vi får civiliserad teknik - Gisela Jönsson](http://www.giselajonsson.se/nytt/2016/1/24/r-2016-ret-vi-fr-civiliserad-teknik)
 * [Time well spent](http://timewellspent.io/) 
 * [How technology hijacks people's minds - Tristan Harris](https://medium.com/swlh/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.mv7ibyetf)
-* Brook vill göra en podcast om mindfull teknologi
+* [Brooks](https://www.facebook.com/deTerrence) vill göra en podcast om [mindfull teknologi](http://www.everyday.school/mindfultech)
 
 Social filosofi, inte debatt.
 
@@ -34,7 +34,7 @@ Kompromissa inte, gå radikalt vidare. Tes, antites och syntes.
 
 Bli först radikal ateist - ta död på alla gudar.
 
-Syntheismen behövde grundas i skandinavien, bland utbredd ateism.
+Syntheismen behövde grundas i Skandinavien, bland utbredd ateism.
  
 När man tar för givet att något är sant - axiom, så ser man det inte.
 
@@ -95,7 +95,7 @@ Andlighet bygger politik. De gröna är kapitalismens antites, piraterna dess sy
 
 För tio år sedan beklagade vi oss över allt vi inte hade möjlighet att göra. Idag beklagar vi oss över allt vi inte orkar göra och all Fear of Missing Out. När individer ska ombildas till divider och memer slåss om uppmärksamheten uppstår en väldig massa attentionalistisk smärta.
 
-Gud är död och det nya ledarskapet är att lyfta upp medmänniskorna. Vi måste ta hand om de digitalt utslagna och göra dem sociala. Stafettpinnen, Alexander korrläste någons (?) bok och fick frågan vad som saknades i den - Internet och Burning Man. Han fick svaret att "det är din bok" och så fick han stafettpinnene.
+Gud är död och det nya ledarskapet är att lyfta upp medmänniskorna. Vi måste ta hand om de digitalt utslagna och göra dem sociala. Stafettpinnen, Alexander korrläste någons (?) bok och fick frågan vad som saknades i den - Internet och Burning Man. Han fick svaret att "det är din bok" och så fick han stafettpinnen.
 
 Paulus kallade guden som uppstår i lärjungarnas möten för den Helige Ande!
 
