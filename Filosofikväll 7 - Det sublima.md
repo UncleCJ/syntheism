@@ -17,7 +17,7 @@ Religionen "förpackar" (och avväpnar?) det sublima?
 **Det sublima syntheos** - Det som är sublimt för oss är inte sublimt för tekniken. Att vara omfattad utav tekniken kan vara en sublim känsla i sig. Att facebook "förstår" oss alltför väl, när [datorer börjar förstå känslor](http://www.svd.se/nu-ska-roboten-pepper-bli-en-konsumentprodukt
 ) kan vara svindlande.
 
-Kunskap och det sublima p Astronomisk kunskap kan vara ett nödvändigt verktyg för sublima insikter... **Pantheos**
+**Kunskap och det sublima** - T.ex. astronomisk kunskap kan vara ett nödvändigt verktyg för sublima insikter... **Pantheos**
 
 > *"It’s all really there. That’s what really gets you. But you gotta stop and think about it to really get the pleasure about the complexity, the inconceivable nature of nature."* - [Richard Feynman](https://www.brainpickings.org/2012/04/05/feynman-series-reid-gowan/)
 
