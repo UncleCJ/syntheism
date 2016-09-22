@@ -6,31 +6,30 @@ Another useful starting point is the glossary of the [Syntheism book](http://syn
 
 Where do we take these? An animation, fortune cookies, inspirational posters, an errata, debates?! It's up to you, fork the repo, I'll be here, gnawing away at the elephant that is syntheology.
 
-The numbers referred are for practical reasons [kindle locations](https://www.amazon.com/forum/kindle?_encoding=UTF8&cdForum=Fx1D7SY3BVSESG&cdThread=Tx2LHN7MUWM4WV0
-), possibly each corresponding to 128 bytes of text including formatting.
+The numbers referred are for practical reasons [kindle locations](https://www.amazon.com/forum/kindle?_encoding=UTF8&cdForum=Fx1D7SY3BVSESG&cdThread=Tx2LHN7MUWM4WV0), possibly each corresponding to 128 bytes of text including formatting.
 
 ## The Futurica Trilogy Contents ##
 
 **The Netocrats –The Futurica Trilogy, Part 1 (Loc 45)**
 
-- Introduction
-- 1. Technology as the driving force of history
-- 2. Feudalism, capitalism and informationalism
-- 3. Plurarchal society –the death of etatism and the crisis of democracy
-- 4. Information, propaganda and entertainment
-- 5. Curators, nexialists and eternalists –The netocrats and their world-view
-- 6. Globalisation, the death of mass media and the growth of the consumtariat
-- 7. The new biology and netocratic ethics
-- 8. The convulsions of collectivity, the death of man and the virtual subject
-- 9. Network pyramids –attentionalistic power hierarchies
-- 10. Sex and tribalism, virtual education and the inequality of the brain
-- 11. Behind the firewalls –netocratic civil war and virtual revolutionaries
+- Introduction (Loc 45)
+- 1. Technology as the driving force of history (Loc 83)
+- 2. Feudalism, capitalism and informationalism (Loc 373)
+- 3. Plurarchal society –the death of etatism and the crisis of democracy (Loc 689)
+- 4. Information, propaganda and entertainment (Loc 982)
+- 5. Curators, nexialists and eternalists –The netocrats and their world-view (Loc 1215)
+- 6. Globalisation, the death of mass media and the growth of the consumtariat (Loc 1539)
+- 7. The new biology and netocratic ethics (Loc 1860)
+- 8. The convulsions of collectivity, the death of man and the virtual subject (Loc 2186)
+- 9. Network pyramids –attentionalistic power hierarchies (Loc 2494)
+- 10. Sex and tribalism, virtual education and the inequality of the brain (Loc 2751)
+- 11. Behind the firewalls –netocratic civil war and virtual revolutionaries (Loc 3105)
 
 **The Global Empire –The Futurica Trilogy, Part 2 (Loc 3270)**
 
-- 1. The Road to the World State and History as a Process of Domestication
-- 2. Empire, Plurarchy and the Virtual Nomadic Tribe
-- 3. The Genealogy of Netocratic Ethics
+- 1. The Road to the World State and History as a Process of Domestication (Loc 3271)
+- 2. Empire, Plurarchy and the Virtual Nomadic Tribe (Loc 3694)
+- 3. The Genealogy of Netocratic Ethics (Loc 4120)
 - 4. The Renaissance of Ideology (Loc 4498)
 - 5. The Dialectic between Eternalism and Mobilism (Loc 4853)
 - 6. The Paradox of Metaphysics and the Metaphysics of Paradoxism (Loc 5187)
@@ -43,34 +42,40 @@ The numbers referred are for practical reasons [kindle locations](https://www.am
 - 13. The Ecstasy of the Event and the Fading Gaze of Nature (Loc 7338)
 - 14. Nazism as a Sociotechnological Phenomenon (Loc 7701)
 - 15. Sex, Power and Network Dynamics –the Necessary Metamorphosis of Feminism (Loc 7933)
-- 16. The Infrastructure of the Empire and Eternalism’s Moral Imperative
+- 16. The Infrastructure of the Empire and Eternalism’s Moral Imperative (Loc 8232)
 
 **The Body Machines –The Futurica Trilogy, Part 3 (Loc 8427)**
 
-- 1. The Rise and Fall of the Soul
-- 2. A Brief History of the Brain
-- 3. The Problem With Subjectivity
-- 4. The Myth of the Ego
-- 5. The Myth of Free Will
-- 6. The Mechanisms of Thought
-- 7. A Short History of Language
-- 8. The Rise and Fall of Morality
+- 1. The Rise and Fall of the Soul (Loc 8429)
+- 2. A Brief History of the Brain (Loc 8749)
+- 3. The Problem With Subjectivity (Loc 9104)
+- 4. The Myth of the Ego (Loc 9405)
+- 5. The Myth of Free Will (Loc 9658)
+- 6. The Mechanisms of Thought (Loc 9956)
+- 7. A Short History of Language (Loc 10239)
+- 8. The Rise and Fall of Morality (Loc 10583)
 - 9. The Curse of Cultural Relativism
-- 10. The Ethics of Interactivity
+- 10. The Ethics of Interactivity (Loc 11193)
 - 11. The Theory of Schizoanalysis
 - 12. The Practice of Schizoanalysis
--  +1. (A Sort of Afterword)
+- +1. (A Sort of Afterword)
 - Futurica Glossary
 
 ## The Netocrats –The Futurica Trilogy, Part 1 (Loc 45) ##
 
+### Introduction (Loc 45) ###
+
 65: Forming groups of people with common interests and coordinating action is not only possible, it comes completely natural for people young enough to have been growing up with the Internet as part of their social environment. They will demand accountability from those in power.
+
+### 1. Technology as the driving force of history (Loc 83) ###
 
 90: We all suffer to some extent from confused perceptions of what is going on outside the small part of our immediate world that we can get a direct impression of. This does not prevent us from forming, and being forced to form, opinions
 
 240: They are not analyses or prognoses, but prejudices. A new, revolutionary technology for communication and information will undoubtedly change the preconditions of everything: society, economy, culture. But it will not solve all our problems. It would be naïve to believe that it could.
 
 371: We, on the other hand, cannot blame anything other than laziness or stupidity if we do not manage to garner a relatively clear picture of what is going on around us and if we cannot draw the relevant conclusions
+
+### 2. Feudalism, capitalism and informationalism (Loc 373) ###
 
 385: we can take as our starting point the idea that existence is a continual conflict between a multitude of different forces that are in permanent opposition to one another, yet which presuppose and define each other precisely as a result of this opposition.
 
@@ -100,6 +105,8 @@ The numbers referred are for practical reasons [kindle locations](https://www.am
 
 681: It is from this conflict, this fight for power among the classes, that society and history gain their momentum.
 
+### 3. Plurarchal society –the death of etatism and the crisis of democracy (Loc 689) ###
+
 703: Intellectual life in the feudal period was diverted to the monasteries, where monks and nuns with literary talents were occupied with eternal discussion of insoluble theological dilemmas, and with the manual reproduction of biblical texts which were then stored in aristocratic libraries where they gathered dust; all with the ultimate goal of negating the critical edge of their intellect and directing it instead towards the maintenance of the existing power structure.
 
 714: this alliance between monarch and aristocracy, anchored by the Church and embodied by the army.
@@ -120,6 +127,8 @@ The numbers referred are for practical reasons [kindle locations](https://www.am
 
 971: The fundamental notion of democracy, whereby the majority decides over the minority when differences of opinion occur, is therefore impossible to maintain. On the net everyone is master of him or herself, for better or worse. This means that all collective interests, not least the maintenance of law and order, will come under intense pressure. A pure plurarchy means that it is impossible to formulate the conditions for a judicial state. The difference between legality and criminality ceases to exist.
 
+### 4. Information, propaganda and entertainment (Loc 982) ###
+
 1027: technological advances are generally seen as having the potential to solve all the social and cultural conflicts of our age. The solution is to throw information at the problem. This is the reasoning of those with blind faith, the ecstatically enthusiastic cheerleaders of the new dominant class.
 
 1067: Words still require a modicum of grammatical context if they are to mean anything at all, but images are assumed to speak for themselves. A photograph says all that need be said about the frozen moment; in the world of the photograph, everything is open to view. The present emerges in the light of a flashbulb, the past retreats into the shadows, and context dissolves into a thin haze. The value of information is high, but the knowledge content is decidedly uncertain.
@@ -137,7 +146,11 @@ Things have to be fun at all times. If people are bored, they go somewhere else 
 
 1210: Everything suggests that we are now at the introductory stage of a phase in which information, paradoxically, is beginning to lose its prestige in the general consciousness. It is so easily accessible that it has become a logistical problem and an environmental hazard.
 
+### 5. Curators, nexialists and eternalists –The netocrats and their world-view (Loc 1215) ###
+
 1499: A common misconception among the information theorists of late-capitalism is that the network’s transparency will result in a more open society with full democratic visibility on all levels and where all participants have the same possibility to influence and the same access to information. But this reasoning should be regarded as palliative netocratic propaganda. This democratic utopia is an sign of rationalistic wishful-thinking and is based upon the misunderstanding that the internal dynamic of networks, on the micro-level, is automatically transferable to society at large. It is not that simple.
+
+### 6. Globalisation, the death of mass media and the growth of the consumtariat (Loc 1539) ###
 
 1547: In the capitalist paradigm paid labour was the basis of the entire economic system. This means that paid labour has been of vital ideological significance. To be productive was the very definition of being a successful human being. Talent was defined as the ability –and a quantifiable ability –to produce goods and services which could be sold in the marketplace. The combined economic value that the market placed on all waged labour –regardless of the extent to which this ended up in the workers’ pockets as wages, in the investors’ pockets as profits, or in the Treasury’s pockets as taxes –has been the measure by which entire national production has been calculated. This is the only aspect of human activity which has seriously interested the bourgeoisie.
 
@@ -148,6 +161,12 @@ Things have to be fun at all times. If people are bored, they go somewhere else 
 1646: The working classes were effectively disarmed by this, and at the same time it became possible to ascertain exactly, and under relatively orderly conditions, the point at which low wages and bad working conditions threatened to boil over in discontent. Businesses could maximise profits if wages were fixed just above this critical level, and all parties were expected to be satisfied with this. Revolution was postponed once more, and at the lowest possible price. This ritual was repeated each year with a good deal of commotion.
 
 1668: The terror of political correctness today is an act of bitter revenge by the minority against this worship of the majority. So-called weak groups gather in noisy alliances and demand rights in the form of quotas and special privileges. Pressure is exerted primarily through the media, and minorities with greater media power than others succeed better in this symbolic struggle for control of definitions. The result is the total impoverishment of political culture: the political arena is gradually stripped of substance and becomes the theatre for a frenzied battle between special interest groups.
+
+### 7. The new biology and netocratic ethics (Loc 1860) ###
+
+**(no quotes from this chapter just yet, do you have any?!)**
+
+### 8. The convulsions of collectivity, the death of man and the virtual subject (Loc 2186) ###
 
 2238: The nation replaced the old town as the geographic basis of citizenship, which was confirmed by the supreme instance of capitalist identity: the passport.
 
@@ -161,24 +180,33 @@ Things have to be fun at all times. If people are bored, they go somewhere else 
 
 2456: The result has been a bizarre campaign of slander where the dying capitalist institutions: the political classes, psychologists, socionomists, the mass media, school and family, are all accusing each other of a lack of responsibility for the education of the people: Why will no-one take responsibility and try to stop people taking responsibility for themselves?
 
+### 9. Network pyramids –attentionalistic power hierarchies (Loc 2494) ###
+
 2561: The transparency is essentially a chimera, a netocratic propaganda myth, existing only within extremely narrow, horizontal sections. We can see and hear everything more clearly over short distances, but the cost of this is that our far-sight, and with it the public arena itself, has disappeared.
 
 2616: The displaced balance of power that is the result of this development is reflected in the growing medialisation of politics. Politics is being forced to adapt to media dramaturgy and become tv-friendly and entertaining in order to attract any attention at all. In the long run this will lead to politicians losing all real power; they will become a new category of low-paid tv-entertainers, harmless enactors of other people’s scripts, mercilessly reviewed the whole time, and mocked by their journalistic overseers.
 
 2671: Innumerable investors will gather around every informationally wealthy person or organisation, hunting for information, begging and pleading to be allowed to invest their financial capital in the activity which he does not himself understand, and they will be forced to adapt to the various wishes and whims of the netocrat. The Fortune 500 will be reduced to a sort of kitsch entertainment literature, rather like Debrett’s under capitalism; as a piquant diversion, one can study how a bygone era ranked its citizens according to long-lost principles.
 
+### 10. Sex and tribalism, virtual education and the inequality of the brain (Loc 2751) ###
+
 2826: Feudalism maintained that people could believe what they wanted to so long as they believed in God; capitalist tolerance stretches to the point that people can vote for whomsoever they want to so long as they vote for the bourgeois democratic state in one of its sanctioned variations.
 
 2912: The nuclear family –which is, interestingly enough, the same age as another post-war phenomenon, nuclear weapons –ought therefore to be regarded as an integral part of latter-day capitalism’s obsession with individualism: total freedom at the cost of total isolation, consumption instead of communication. There is a simple and obvious logic to this. It is in the interests of the state, as well as of capital, (once again in the same boat) that people develop into “independent individuals” rather than as members of wide-ranging networks of social communities. Quite simply, it makes it easier to exercise central control, and at the same time people develop a sense of individual responsibility for their own self-realisation, which is expressed in intense and often therapeutic consumption.
 
+### 11. Behind the firewalls –netocratic civil war and virtual revolutionaries (Loc 3105) ###
+
+3323: Socrates, who had no intention of leaving any writings behind him, expresses through Plato the thought that writing is quite unnatural, that it replaces true wisdom with superficial wisdom because it encourages people to locate their memory outside of themselves, and therefore to neglect the function of their own memories.
 
 ## The Global Empire –The Futurica Trilogy, Part 2 (Loc 3270) ##
 
-3323: Socrates, who had no intention of leaving any writings behind him, expresses through Plato the thought that writing is quite unnatural, that it replaces true wisdom with superficial wisdom because it encourages people to locate their memory outside of themselves, and therefore to neglect the function of their own memories.
+### 1. The Road to the World State and History as a Process of Domestication (Loc 3271) ###
 
 3518: He would sooner burn his fortune than give it away, because donated money is always harmful to the accomplishment of the non-zero-sum games that matter more than anything else. The aim is always to move your money around in a way that will be constructive for all parties. Otherwise it would be better not to have any money.
 
 3543: As a result, the netocrat, in contrast to the old capitalist, has no interest in annihilating his competitors: quite the reverse. Instead the netocrat welcomes increased competition in order to increase the creative insecurity in his own project, safe in the knowledge that these interesting games are all non-zero-sum in character, and that another person’s gain does not imply his or her own loss. It is just as much the competitors as collaborators who make it possible for the netocrat fully to realise his talents, which in practise means that the competitor is a highly valued partner.
+
+### 2. Empire, Plurarchy and the Virtual Nomadic Tribe (Loc 3694) ###
 
 3709: Virtual nomadic tribes are spreading across the world thanks to interactive media technologies. The really interesting thing is, however, not the various networks’ recruitment and expansion –even if they themselves often think it is –but how they are collaborating in the creation of a genuinely global culture which is in radical opposition to the old nation state. This conflict is brought to a head every time the interests of the virtual nomadic tribes collide with the laws and moral codes of the nation state –for instance, the advance of sexual and chemical liberation –and is intensified still further when a necessary and unavoidable awareness of their own leading role in the paradigm shift begins to dawn on the networks.
 
@@ -191,6 +219,8 @@ Things have to be fun at all times. If people are bored, they go somewhere else 
 3850: The keyword in this context in farsightedness. Under informationalism, the ground rule will be that people who keep the whole picture in mind, rather than wanting to appease the noisiest current opinion, will be rewarded in the long term with considerably greater attentionality.
 
 4050: The genuinely radical political act must instead be unconditionally built upon the disciplined application of practice, namely eternalism’s radical pragmatism; a conclusion which Gilles Deleuze was alone in drawing among poststructuralist thinkers, and the most important explanation as to why he never called himself a Marxist.
+
+### 3. The Genealogy of Netocratic Ethics (Loc 4120) ###
 
 4131: The electronics amplified the mass media and therefore increased the potency of one-way communication. The printed media –books, daily papers and magazines –had made relatively high demands of their audience. Literacy was a precondition for being able to receive any information at all. With the advent of radio and television, the entrance requirements were reduced to the ability to use a switch, and as a result centralistic power could quite literally reach everyone. This also happened at the same time as those being addressed were given less opportunity than ever to answer back.
 
@@ -261,6 +291,7 @@ Things have to be fun at all times. If people are bored, they go somewhere else 
 ### 5. The Dialectic between Eternalism and Mobilism (Loc 4853) ###
 
 4928: Because language is a game with conventional symbols which refer horizontally to each other within the system’s closed halls of mirrors, it is extremely eternalising by nature. So philosophy can never reach nor describe immanent, mobilist reality as such, but at best merely produce a continuous series of eternalisations.
+
 This leads us to what is and must be the role of philosophy within informationalist society: to drive the eternalisation of existence as far as possible.
 
 5100: It is in the deathwish of the collective subconscious –in an understandable and apparently innocent, but ultimately life-denying desire to avoid the many trials of existence and achieve peace and quiet –that utopisms have always found their most fertile soil.
@@ -298,6 +329,7 @@ This leads us to what is and must be the role of philosophy within informational
 ### 10. The War between the Replicators –the Memes’ Victory over the Genes (Loc 6402) ###
 
 6448: The fictive balances between ingenious simplicity and comprehensive complexity: simplicity for the sake of comprehensibility, complexity for the sake of credibility; however, its complexity is only a fraction of that of the world it is intended to mirror. All the individual consciousness needs to do is to find, or rather, produce, enough fictives which seem to harmonise with one another, and a complete worldview arises in no time. The quality of all additional fictives is judged according to this worldview. Those fictives which are in tune with the governing worldview are accepted, the others rejected.
+
 It is here that memetics and eternalist philosophy begin to interact with one another, rather like the different components of epoxy glue. All we have to do is imagine eternalism’s fictives as transportable entities, like packages of information which can be communicated freely
 
 6485: The memes’ struggle for survival, just like that of the genes, is anything but straightforward. Competition is literally lethal, and is getting more intense now that interactive media-technologies are increasing the available amounts of information so dramatically. The bottleneck in this context is what we call attentionalism: awareness multiplied by credibility. What the memes are fighting over, and what their very survival stands or falls on, is their attention. The total number of human consciousnesses is finite, as is the capacity of each individual consciousness. The untamed hurricane of information which is raging through all the world’s media is a heart-rending expression of the desperate anxiety of far too many memes facing imminent extinction.
@@ -325,7 +357,6 @@ In their capacity as the demonised opposites of the ideal, sickness and intoxica
 
 6820: This behaviour shows itself time after time to be crassly pragmatic; ethical or ontological questions are dealt with retrospectively. The main thing is that the heart beats and that the hip works. Consumer demand is guiding development with an iron hand.
 
-
 ### 12. Socioanalytical Ethics and the Collapse of the Capitalist Left (Loc 6981) ###
 
 7007: The theory is based upon undermining the foundations of the existing hierarchical power-structure, so that this implodes, whereupon good forces can actively drive society towards a plurarchical state where everyone has power and determines their own actions, but lacks the power to decide what anyone else should do.
@@ -337,7 +368,6 @@ In their capacity as the demonised opposites of the ideal, sickness and intoxica
 7145: Activists were reduced to either unconditional yes-men or traitors to the good cause, as a result of which the minority movements never succeeded in developing a dialectic dynamic, but instead stagnated in doctrinal paralysis.
 
 7222: The explanations for this phenomenon instead lie deep within the sociotechnological laws of network dynamics, which stem from fundamental meme-Darwinian survival principles. Escalated interactivity is indissolubly linked to escalated multiplicity; there is, for instance, an empirically proven connection between a greater visible degree of sexual variety and economic growth in the metropolitan areas of Europe and North America during late-capitalism. Environments in which homosexuals are included are simply more creative and openly tolerant than environments where they are excluded, and this creativity is something which no ambitious network can afford to be without.
-
 
 ### 13. The Ecstasy of the Event and the Fading Gaze of Nature (Loc 7338) ###
 
@@ -357,7 +387,6 @@ In their capacity as the demonised opposites of the ideal, sickness and intoxica
 
 7622: It is this scepticism towards the recent past which explains why the queer movement and chemical liberation are the first global mass movements in informationalist society. In both cases there are good opportunities to present strongly identity-producing resistance to governing norms –they are both fighting existing legislation in a long list of countries –but also a promise of collective ecstasy, which, according to eventology, is a necessary component in the imagined core of the virtual nomadic tribe.
 
-
 ### 14. Nazism as a Sociotechnological Phenomenon (Loc 7701) ###
 
 7724: The Nazi reign of terror in Germany during the 1930s and 40s is a terrifying example of the destructive energies which could be developed in a society where a resonance arose between racism and the fascination of the age with the media and industrial technologies. Suddenly a largely unconscious, unformulated ideology, which otherwise manifested itself mostly as imprecise and poorly thought-out bar-room talk, could be sharpened to rhetorically perfect phrases and, via the megaphone of radio, be screamed into every citizen’s living-room.
@@ -372,7 +401,6 @@ In their capacity as the demonised opposites of the ideal, sickness and intoxica
 
 7920: The good news is that moralism’s conditions for survival under informationalism are becoming increasingly bleak. Moralism’s self-aggrandisement is becoming more and more obvious, as is the absence of real morals.
 
-
 ### 15. Sex, Power and Network Dynamics –the Necessary Metamorphosis of Feminism (Loc 7933) ###
 
 7966: This is not to say that feminism as it has been up to now ought to be judged a failure; its successes are unquestionable. But the question of activism’s goals must constantly be asked anew, particularly if the whole of society is undergoing radical change. At the same time as feminism has celebrated great triumphs during the final period of the capitalist paradigm, it is a fact that the patriarchal order has equally successfully survived by mutating and moving to the arenas where power itself has already moved. Clear-sightedness is always preferable to naïvety. For feminism to be a relevant meme, to informationalist networks in general, and to the netocratic woman in particular, it must be transformed into a transrationalist discourse. Feminism’s real enemy is not so much the other sex, as its own ideological rigidity.
@@ -383,22 +411,140 @@ In their capacity as the demonised opposites of the ideal, sickness and intoxica
 
 8119: Because of this, Foucault’s ethical ideal was deemed to have been put into practice: power was silenced so that the powerless could make their voices heard uninterrupted. But this was a Pyrrhic victory. Admittedly, the powerless were allowed to speak, the fact that no-one was listening was ignored, so the powerless remained powerless. Plurarchy had already broken through so powerfully in the diversified media-landscape that the audience went home when it was no longer entertained by what was being said, or thought it irrelevant. Power nodded in a friendly but disengaged way, at the same time as it quickly moved to another arena.
 
---
+8182: This perception results in a form of feminist activism which consists of verbose affirmations directed at a reality which deviates from the activists’ wishful thinking. The problem is that as long as activism is concerned with wishful thinking rather than reality as its starting point, it will obviously never reach reality itself, the sphere in which the real battle for power is fought.
+
+8211: we can see the actual spread of violence throughout the body, see how finely connected and widespread it is in all the body’s extremities, see that it is impossible to imagine violence out of existence. As a result, the concept of violence comes to comprise even invisible violence: mental, verbal, medial. And, because of this, we can see how violence is always responsible for the transfer of power in society.
+
+### 16. The Infrastructure of the Empire and Eternalism’s Moral Imperative (Loc 8232) ###
+
+8233: THE GROWING TORRENT OF INFORMATION is making information itself a logistical problem and an environmental hazard. Attention is becoming more and more desirable, but it is in increasingly short supply. One characteristic of media developments in conjunction with the transition to an informationalist society is the increasingly brutal competition for this finite amount of attention, which in turn leads to yet another increase in the torrent of information. Producers see their chance to get in ahead of their competitors by implementing and supplying faster what consumers might be expected to want, and this producer’s speed builds in turn upon the increasingly rapid collection and processing of information.
+
+8243: The ironic consequence of all this speed is a paradoxical sluggishness, combined with the galloping meaningless which arises when the absence of relevant analysis is filled with guesses and chatter.
+
+8253: What the news-consumtariat is ultimately consuming is nothing but a tragicomic liturgy of the loss of meaning and their own impotence.
+
+8266: The result is a media landscape where the darkness is illuminated by a constant display of short-lived fireworks made up of superficial chatter. An endless procession of people pop up and become intimate, to express something, anything at all. This arrangement is, quite literally, extremely popular, because it is undemandingly democratic in the most general sense: everyone can express something, no-one demands that the person expressing the opinion should have any knowledge or ability to present an argument, and all of these expressions of opinion are precisely as worthless as each other.
+
+8277: Medialised public life is therefore becoming something one consumes rather than something one participates in. Faces, constantly new faces, and disparate fragments of stories shimmer past on the screen, then disappear. This is what Neil Postman call a peek-a-boo world.
+
+8296: All this frantic and insubstantial chatter is the new opium of the people. Intelligent analysis, on the other hand, will become a netocratic privilege and instrument of power.
 
 ## The Body Machines –The Futurica Trilogy, Part 3 (Loc 8427) ##
 
+### 1. The Rise and Fall of the Soul (Loc 8429) ###
+
 8452: It guarantees a continuation of the life we are so reluctant to give up –and which we therefore need not care too much about how we live, or perhaps not even live particularly carefully at all, seeing as time, thanks to the soul, is unlimited –at the same time as it promises a total make-over of everyday greyness and exhaustion for anyone who plays their cards right. The soul thus constitutes the very cornerstone of the construct that imbues everything with a higher purpose. It's hardly surprising that this concept has proved incredibly popular.
 
-8505: The connection between body and soul is consequently not, as it was for Plato, anything that spiritually aware philosophers have the slightest reason to regret, but instead a precondition for life. And life interests Aristotle far more than pure thoughts in an imagined world that isn't ours. Everything living has a soul, people and animals and plants, and the various species’ souls vary in their development and degree of refinement. The fact that form is always superior to materia in Aristotle's hierarchy of world order does not mean that the body must be resisted or condemned.
+8504: The connection between body and soul is consequently not, as it was for Plato, anything that spiritually aware philosophers have the slightest reason to regret, but instead a precondition for life. And life interests Aristotle far more than pure thoughts in an imagined world that isn't ours. Everything living has a soul, people and animals and plants, and the various species’ souls vary in their development and degree of refinement. The fact that form is always superior to materia in Aristotle's hierarchy of world order does not mean that the body must be resisted or condemned.
+
+8559: Only human beings have a soul, which confirms our unique place in creation, a supposition which both the philosopher's deeply religious contemporaries and the humanists of future generations have noted with great satisfaction. Animals have, and are, only their bodies; in other words, they are soulless automata, body machines.
+
+8581: But how did Descartes identify this particular little gland so emphatically? He used a process of elimination. All other parts of the brain, he says, exist in duplicate. But at any and each moment we have only one thought about any particular object. So there must be a place where the images from both eyes are combined into a unified impression. And there is nowhere else in the body where this could take place except this little gland. From then on, his reasoning disappears inexorably into thick banks of fog.
+
+8594: As the American neurologist Antonio Damasio writes in his book Descartes’ Error, the question is actually where we should start if we are to try to bring order to this vast, post-Cartesian disaster.
+
+8707: one conclusion we must draw from all the collective research into the human brain is that it is evidently constructed to seek for meaning and contexts everywhere. Behind this obvious need is an evolutionary logic: we have an unquenchable thirst for meaning which turns us into compulsive puzzle-solvers, which in turn increases our chances of surviving and reproducing. The consequence is that we do not leave anything to chance, and when the picture is incomplete for whatever reason, we fill in the gaps we believe are there, often unconsciously. And where existential questions are concerned, the meaning of everything, there is undoubtedly a lot to fill in, one way or another.
+
+### 2. A Brief History of the Brain (Loc 8749) ###
+
+9042: So, for materialists like us, the most satisfactory explanation of the sensationally rapid development of our oversized brains is that the females among our closest ancestors simply thought that males with big brains were exceptionally attractive. A big brain was in many respects a heavy burden to drag around, but it brought its owner many sexual contacts, so the characteristics responsible for it spread around the world. After all, managing to survive was only half the job, as Darwin proved. You also have to reproduce.
+
+9094: At the same time, the female organ which plays the role of the choosy clitoris, critically evaluating the capabilities of this large brain, is the female's own large brain, which therefore develops in parallel to the male's. (A human male brain weighs on average 1,440 grams, a female brain 1,250 grams.)
+
+### 3. The Problem With Subjectivity (Loc 9104) ###
+
+9197: The chemical machine has simply not had time to adapt to modern society's relatively new circumstances, such as permanent stress in the form of a strictly regulated working life and mortgage repayments over a long, unbroken period of time. And because the machine is no longer entirely suited to these circumstances, there is nowadays a broad requirement for external assistance in adjusting the chemical balance of the soup.
+
+9361: As a result, it isn't just the literal religious believers who are reacting against the current process of secularisation, but a broad alliance of cultural conservatives from left and right, and a mass of other people who for various reasons are incapable of accepting counter-intuitive reasoning.
+
+### 4. The Myth of the Ego (Loc 9405) ###
+
+9487: If we were more sophisticated that we actually are, or rather, if our brains saw through their own virtual simulation and therefore did not perceive what Metzinger called our ‘phenomenal ego-model’ as a genuinely existing ego, the cost would outweigh the benefits. We would probably end up paying a higher metabolic price –burn more sugar –without achieving anything more than practical difficulties and, in a lot of cases, existential angst for ourselves.
+
+### 5. The Myth of Free Will (Loc 9658) ###
+
+**(no quotes from this chapter just yet, do you have any?!)**
+
+### 6. The Mechanisms of Thought (Loc 9956) ###
+
+10001: As long as new patterns of incoming impulses appear in sequences which make it possible for the brain to recognise where it is, and, to a large extent, predict what is going to happen next, everything is fine. Tried and tested strategies still apply. Predictability is, as Hawkins stresses, the very definition of what we call reality.
+
+10004: Unforeseen patterns are viewed by the brain as mistakes that need checking; they are sent upward through the hierarchy of consciousness until they reach a region on a level where it is possible to comprehend the patterns and place them in a larger context.
+
+10016: Our prophecies are self-fulfilling. We plod through our days on unconscious autopilot while our conscious attention is free to occupy itself with other matters.
+
+10024: Hawkins’ simple definition of creativity –and there is no reason to complicate it –is the ability to predict different sorts of occurrence through the use of analogies. This is something all brains do when they are awake, but it is also something that certain brains do in a more sophisticated way than others, and with a higher degree of abstraction. Creativity takes place along a scale which reaches right from the most elementary autopilot activities to epoch-making flashes of creative genius. The method is fundamentally always the same: it is a matter of more or less functional connections between new and learned patterns through analogy.
+
+10045: Whatever we do and whatever we think, however much we try to live in the present or look into the future, we are constantly moving within the theatre of our own memories. This is the only way the world can be made comprehensible and manageable, and only to the extent that the world resembles or reminds us of our own memories. We don't understand anything else at all. Our brain has many functions, but its most spectacular party trick is precisely this magnificent ability to mix and match patterns with and against one another.
+
+10079: Humankind has transformed its world, and the human world has responded by equipping the human brain with new and more advanced patterns. In other words: we create the culture which then recreates us, and then we recreate culture once more and then it recreates us human beings again, and so on, ad infinitum.
+
+10102: What is happening here is actually not some tough but fair talent contest, with some imagined neutral and fact-orientated judge as the final objective arbiter. The point isn't whether the idea of intelligent design is intelligent or not, but rather if it has any survival value, and that isn't decided by some truth tribunal, but by whether this pattern of thought matches other patterns stored within the collection of human brains which make up the prime target group. And it is clear that it does. Large parts of the world are still crawling with people who are religious, who want to be religious, who believe or, rather, would like to believe in a divine creator, a giant daddy in the sky, and many of them are literal believers of the sort that finds it offensive even to toy with the idea that the species have developed by chance and over a long period of time without there being any higher thought or plan behind the whole business. Human narcissism really is that great.
+
+10166: The concept of the meme was launched almost in passing by the biologist Richard Dawkins towards the end of his book The Selfish Gene (1976). Dawkins went on to develop the concept in The Extended Phenotype (1982), but the aim remained simply to illustrate evolutionary principles in processes outside biology, and was not yet intended to formulate any general theory about the development of human culture.
+
+10173: Genes combine to build advanced survival machines in the form of organisms. Memes do the same; human consciousness is their survival machine. And the meme is selfish insofar as it is concerned with nothing but its own survival and reproduction. Peace on earth or the eternal happiness of its host organism just aren't on the agenda.
+
+10190: The conditions for memes are tough, on the verge of inhuman. Human consciousness and its capacity for attention have distinct limitations, and the number of losers who drown in a constantly increasing torrent of information is astronomical.
+
+### 7. A Short History of Language (Loc 10239) ###
+
+10295: And this, our fundamental ‘slave mentality’, deeply embedded in humankind's self-image, is precisely what got the philosopher Friedrich Nietzsche so upset when, in the late-nineteenth century, in books such as Thus Spoke Zarathustra and Ecce Homo, he dissected humanity, its history and conditions of life, and placed his hope in a different, future form of humanity: the superman who entirely rejects historically and genetically conditioned subordination.
+
+10323: Admittedly, it is completely isolated in this battle with the incomprehensible world around it, but without the infant perceiving this as remotely traumatic, seeing as it is not yet conscious of any alternative to the unshakeable focus of its own desires. Because the new-born infant is blissfully unaware of what awaits it in the social context of later stages of its development, of the adult's enforced and angst-ridden balancing act between a massive plurality of imagined wills –its own as well as others’ –it does not perceive its existential isolation as being remotely problematic.
+
+10344: From now on, social recognition is directly linked to survival. And to retain the recognition of the tribe, each individual member must submit to the power structure currently in place within the tribe.
+
+10347: Because The Law is the holiest of texts –the original monotheistic texts were all law books, concrete rules of survival for those in fixed settlements –criminality is not, at the most profound level, about obvious crimes against society's laws and rules (if someone steals something you simply chop off a hand and have done with it –individual crimes have nothing to do with character), but about identifying those who stand outside the fundamental principles of the law: this holy and remarkable Language itself. Being criminal is not the same as being someone who commits a crime. Instead, being criminal ultimately means being a person who lacks a socially acceptable position in the symbolic order, being the person who refuses to listen when power speaks. But why simply eject The Criminal from the social commonwealth when The Criminal actually constitutes excellent material for the tribe's edifying narrative about itself?
+
+10376: While the talking and thinking human being continues to have a one-dimensional and relatively unproblematic relationship with the small children and pets in its immediate vicinity, its relationship with the adults and its own psyche is, thanks to the hyper-dimensionality of language, both complicated and demanding. At the same time, these relationships provide human beings with their greatest and deepest pleasure. Language is therefore the invention and the technology that we never learn to live with, yet cannot imagine living without. Our fascination at the many suggestive consequences of language is so affecting and comprehensive that language and the world eventually tend to become synonymous. This is the metaphysical World.
+
+10516: The fetish is thus no longer the symbol of The Other, the physical proof of the existence of The Other, but rather the fetish has been transformed into The Other itself. It is the postponement of pleasure that gives pleasure. The neurotic knows no other pleasure, and it is this, and nothing else, that is so tragic about the neurotic condition.
+
+The neurotic's masochistic pleasure can in principle carry on undisturbed for all eternity, constantly repeating the same theme like the mechanical piano it actually is. The end of the story is the death of the story, so the end of the story must be avoided at all costs, and the cost of this is that the neurotic does not live life, but merely endures life in anticipation of a life that never arrives (it is hardly surprising that the so-called transhumanist movement on the Internet, with its ambition to create eternal life with the help of new technologies, is a paradise for neurotics). Life isn't something to be lived, but something to be constantly deferred in an pretend wait for its constantly deferred realisation (Judaism, with its constant little preparations for the Messiah's constantly deferred return, is the neurotic religion par excellence).
+
+10529: The problem arises instead when the will turns out to be paralysed outside the fantasy world, when The Other's appreciative gaze no longer participates in the experience and cannot stimulate the subject in the direction of the desired social recognition. Not to mention how impossible it therefore is for the psychotic to manage the simplest manoeuvres to ensure survival on his own.
+
+10532: The psyche is programmed in a Darwinian way to fight at all costs to maintain the difficult balancing act through a torrent of nagging ambitions.
+
+10535: The psyche's stubborn attempts to maintain the balancing act between neurosis and psychosis thus have a logical explanation: the intense experience of a living subject is nothing more than the psyche's own pre-programmed deception of the body in order to ensure the survival of the body. The underlying illusion is actually the driving force of The Subconscious. The awareness that we actually don't exist outside our phantasms and the shadow world of language only increases the intensity of the existential experience. I simply feel more keenly that I exist when I start to suspect that I really don't exist at all. It works, because the existential experience is just a feeling, an electrochemical storm, and not an intellectual conviction.
+
+10547: The fundamental ethical impulse from our pre-linguistic existence is still in place: standing still means death. The only imaginable solution to this ethical dilemma is to stimulate and defend our fascination at the difficulty of the balancing act itself.
+
+10549: In contrast, the neurotic or psychotic state need not be regarded as pathological in the traditional sense, they aren't actually illnesses, but more a sort of supra-dimensional error in thinking which ought to be avoided because of their long-term destructive effects on our self-image, and nothing more.
+
+10573: The individual who can tell the tribe the most attractive and credible story of its origins and future also becomes the internal voice of the tribe and its ideological centre. The person who controls the dominant communication technology in a particular society will also control everything else of strategic value in that society.
+
+10579: We once had a realistic awareness of our relative insignificance in the great scheme of things, and that awareness is once again within our grasp. But it is not at all certain that many of us will choose this clear-sighted perspective on ourselves and the world; it is always tempting to invent new excuses to continue nurturing a false self-image that flatters our vanity.
+
+### 8. The Rise and Fall of Morality (Loc 10583) ###
+
+10600: The atheist position is also, from a historical perspective, a humanist reaction against religion, and we're as uninterested in supporting humanism as we are in defending religion. We would therefore prefer not to be called atheists, by simply staying out of the whole debate. We believe instead that all classical metaphysical concepts like, for instance, The Father of the Tribe, the Creator of Everything, the Divine Clockmaker, the Soul, the Ego, and Santa Claus belong with horoscopes, crystals, pyramids and coffee grounds, none of which can be discussed in remotely serious terms. But what is interesting, on the other hand, are the reasons behind such metaphysics, and how they came about.
+
+10606: What could be bigger and more tangible than material reality itself, in its totality? The only intellectually defensible position regarding traditional religion is therefore pantheism. The father of modern ultra-materialism, Baruch Spinoza, was perfectly aware of this in the 1600s when he formulated his pantheistic theory of life as a single, connected substance with an endless mass of modalities. As a result, Spinoza became a prophet for the age of informationalism, because his construct provided the necessary synthesis of the capitalist age's dialectic between theism and atheism.
 
 --
 
-10960: The attraction of the New-Age movement is a direct consequence of the growing fear of the specialisation of modern science. Increasing epistemic complexity demands a good deal of talent and knowledge if it is to be possible to combine it with a moralising and hierarchical social identity. So a supra-ideology emerges, levelling all human ideologies and fantasies, without allowing any empirical examination or argumentative comparison of the different ideas. This is the supreme instance of equivalence in thought: it's all just ‘theories’, and each one is as good as the next. Everyone is free to believe what they like. Everything is fine as long as it is sufficiently shocking and entertaining to win dissemination among old gossips and ayurveda clinics. The world can't be more complex than this, otherwise our blinkers go on. This is the core of the New-Age movement: being genuinely talented and able to think is synonymous with being cruel to people who are untalented. 
+10960: The attraction of the New-Age movement is a direct consequence of the growing fear of the specialisation of modern science. Increasing epistemic complexity demands a good deal of talent and knowledge if it is to be possible to combine it with a moralising and hierarchical social identity. So a supra-ideology emerges, levelling all human ideologies and fantasies, without allowing any empirical examination or argumentative comparison of the different ideas. This is the supreme instance of equivalence in thought: it's all just ‘theories’, and each one is as good as the next. Everyone is free to believe what they like. Everything is fine as long as it is sufficiently shocking and entertaining to win dissemination among old gossips and ayurveda clinics. The world can't be more complex than this, otherwise our blinkers go on. This is the core of the New-Age movement: being genuinely talented and able to think is synonymous with being cruel to people who are untalented.
 This superficial attitude towards the Enlightenment's view of knowledge forces, paradoxically, the New-Age movement to create a huge demon which has to be presented as precisely inferior to all other fantasies –in other words, modern science itself. In order for chakra healing and pyramid energy to look like legitimate and interesting fields of knowledge, in order for ayurvedic treatments to be sold at a healthy profit, modern, high-technological discoveries such as the brain-scanner and the space telescope must be demonised. Knowledge is becoming evil.
 
 --
 
-Syntheism
+### 10. The Ethics of Interactivity (Loc 11193) ###
+
+11317: They therefore imagined the subject as a sort of quasi-physiological substance with a specific spatial location, hidden somewhere within the human brain. The dualistic Enlightenment philosophers did not do this because they had found a separate subject of this sort in some scientific investigation, but because a distinction between body and soul was essential to save their beloved moralism.
+
+11370: The clearest example of what we might call this facadisation is the relationship between parent and child: because the odds of survival are directly related to the degree of emotional connection, the projection of The Other on your counterpart's face is an obvious survival strategy. The Other is synonymous with me outside my own body, an extension of myself in space-time
+
+11406: The theory of the subject can be applied to all types of subject with the same precision. This means that there are universally applicable ethical coordinates to be garnered from network dynamics, empirically proven experiences which both organisations and single dividuals can make use of. This continually adjusted empiricism constitutes the core of the ethics of interactivity.
+
+11428: Instead of a complicated process of weighing up the interests of dividual and collective, constructive and destructive intentions, short-term and long-term ambitions, Moralism always leaps at the one-dimensional but false division between good and evil. Instead of ethics’ complex but necessary balance between different interests, all decisions are subordinated to the presumed interest of one single power: The Big Other, the overriding Other behind all other Others: in other words, the metaphysical constant itself.
+
+11444: The logic of network dynamics is this: I enjoy being the cause of your enjoyment. You experience enjoyment if and when you perceive yourself to be the object of my enjoyment. Consciousness of the conditions and possibilities for enjoyment-plus gives us an opportunity to cultivate a collective non-zero-sum game of enjoyment. Suddenly the desire to be the object of someone else's enjoyment looks like a constructive act. We are, quite simply, stimulating collective enjoyment by continually facilitating the production of even more enjoyment-plus. We are shamelessly making ourselves the objects of other people's enjoyment. Thus we ultimately also enjoy the existential experience of our relationship. This would not be possible if we did not first see the Net, the metaphysical constant of network society, as the cohesive factor.
+
+--
+
+# Syntheism #
 
 ## Syntheism contents ##
 
@@ -419,5 +565,3 @@ Syntheism
 - Glossary
 
 4462: Under capitalism, the new literate nation state replaces the old illiterate Church as the common arena, and the statist articulation says that society is a body. But the body metaphor –which statism obviously borrows from the ecclesiastical articulation that says that the congregation is a body –must be exposed. For society as a body never generates any narrative for increased cohesiveness, as Michel Foucault points out, but instead functions as a latent threat to the deviant person in the nation state. It is perfectly possible to be an individual, but it is only acceptable to be exactly the individual who maximises her own frustration, alienation and consumption, and who pays for all this by maximising her production for the capitalist power structure, moreover in the shadow of the prevailing phantasmic behavioural imperative: Whatever you do, blend in!
-
---
