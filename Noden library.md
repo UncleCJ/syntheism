@@ -216,10 +216,178 @@
 * ?
 * ?
 * En spelmans visor - Dan Andersson
-* 
+* ?
+* ?
+* ?
+* ?
+* Bellman
+* Wagner - Fear
+* ?
+* ?
+* ?
+* ?
+
+* 4x Synteism
+* 4x Syntheism
+* ?
+* ?
+* ?
+* ?
+* ?
+* Thinking fast and Slow - Kahnemann
+
+* ?
+* ?
+* ?
+* ?
+* ?
+* ?
+* ?
+* ?
+* ?
+* ?
+* ?
+* Hume
+* ?
+* Stumbling on happiness - Daniel Gilbert
+* Mark ? - Models
+* ? - The age of spiritual?
 
 ![Fjärde hyllan](photos/Evernote%20Camera%20Roll%2020161207%20211257%20%281%29.jpg)
+
+* Göran Hägg ?
+* ?
+* Litteraturens världshistoria i tolv band
+* ?
+* ?
+* ?
+* ?
+* ?
+* ?
+* ? Proust
+* ? Marcel Proust
+* ?
+
+* ?
+* The Liverpool scene
+* ?
+* ?
+* ?
+* En Dramatikers dagbok
+* ?
+* Roland Svensson - Min skärgård och din
+* ?
+* Århundradets ordmusik
+* ?
+* ? Brev från Jarl
+* ?
+* ?
+* ?
+* ?
+* ?
+* ?
+* ?
+* ?
+* ?
+* ?
+* ?
+* ?
+
+* Huset Buddenbrook - Thomas Mann
+* ?
+* ?
+* ?
+* Blecktrumman - Gunter Grass
+* Heinrich Boll - Skyddande belägring
+* ?
+* ?
+* Marcel Proust - Brev ?
+* Det femte barnet - Doris Lessing
+* Hermann Hesse - ?
+* ?
+* Virginia Woolf ?
+* ?
+* William Golding - Flugornas herre?
+* Elias Cametti - Förblandningen ?
+* ?
+* ?
+* ?
+* ?
+* ?
+* Harry Martinsson ?
+* ?
+* ?
+* Mina drömmars stad - Per Anders Fogelström
+* ... stad? - Per Anders Fogelström
+* ?
+* Stad i världen - Per Anders Fogelström
+* ?
+* I en förvandlad stad - Per Anders Fogelström
+* ? - Per Anders Fogelström
+* Stad i världen - Per Anders Fogelström
+* ?
+
+* ?
+* ?
+* ?
+* ?
+* ?
+* ?
+* ?
+* ? - Klas Östergren
+* ?
+* ?
+* ?
+* ?
+* ?
+* ?
+* ?
+* 7x ?
+* ?
+* 2x ?
+* ?
+* ?
+* ?
+* ?
+* ?
+* ?
+* ?
+* Milan Kundera ? Skrattets och glömskans bok?
+* ?
+* ?
+* ?
+
+* 5x ?
+* Cornersmith ?
+* ?
+* This is a cookbook ? 
+* 100 sätt att rädda maten
+* Details - ?
+* Livets steg ?
+* Brooklyn interiors
+* My street food kitchen - Jennifer Joyce
+* Plant-based paleo
+
 ![Femte hyllan](photos/Evernote%20Camera%20Roll%2020161207%20211257%20%282%29.jpg)
+
+* Cormac McCarthy - No country for old men
+* John Braine
+* A significant experience
+* The dream at the end of the world - Michelle ?
+* A prayer for the ship - Douglas Reeman
+* Nina Solomin - ?
+* Somerset Maugham ?
+* ?
+* Christopher Sherwood?
+* Billy Liar - The loneliness of the long-distance runner - Waterhouse s?
+* The Penguin - John Grisham?
+* Red sky at morning - Richard Bradford
+* Ali och Nino - Kurban Said
+* Getting caught
+* Kamelen - Ulrika Berge
+* 
+
+
 ![Sjätte hyllan](photos/Evernote%20Camera%20Roll%2020161207%20211258.jpg)
 
 *(Ska jag göra tabeller, CSV eller Excel? [länk](http://brettterpstra.com/2015/04/22/sublime-text-tips-for-markdown-table-editing/))*
