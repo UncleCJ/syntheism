@@ -4,69 +4,40 @@
 
 * Tender
 * Mat är mer än mig
-* ? 
 * Stora kokboken 
-* ?
 * -boken
 * - fyra årstider
-* ?
-* ?
-* ?
-* ?
 * Fröléens Konversations lexikon - band I
 * Fröléens Konversations lexikon - band II
 * Fröléens Konversations lexikon - band III
 * Alt en proveneur et pays ... ?
 * Micro - Dictionare du francais primordial
 * Lewis Resa - Per Olov Enquist
-* ?
 
-* ?
-* ?
 * Bra böckers världsatlas
 * Världens underverk
 * Sydamerika - Natur och djurliv
-* ?
 * Geografi
 * Metronome illustré
 * Eriksgata - Alf Henrikson
 * New York New York
 * Kejsaren av Kina
 * Åland - Heikki S
-* ?
 * Portugal (!)
-* ?
-* ?
-* ?
 * Tusen sevärdheter i Sverige
-* ?
 * Herr Sandberg ser på England
 * *skänk "för herr bachmanns broschyr"*
 *  - Läckö Slott
 * På skidor mot Nordpolen - Björn Staib
 * På skridskor i Östra Svealand - Rolf Gezelious
-* ?
 * Lysses - Chile
 * Vägvisare till naturen i Stockholms län
-* ?
-* ?
 * Italien - Tomas Lappalainen
 * Big Island ?
-* ?
 * A tourist guide to T...?
 
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
 * Atomfysikens grunder I
 * Våglära och optik
-* ?
 * Formelsamling i hållfasthetslära
 * Analys i en variabel
 * Analys i flera variabler
@@ -75,291 +46,102 @@
 * Energiteknik del 2 - Henrik Alvarez
 * Energiteknik del 1 - Henrik Alvarez
 
-* ?
-* ?
-* ?
 * Stora engelska ordboken
-* ?
 * Lilla engelska ordboken
-* ?
-* ?
 
-* ?
-* ?
-* ?
 * Retorik idag - Göran Hägg
 
 ![Andra hyllan](photos/Evernote%20Camera%20Roll%2020161207%20211256%20%281%29.jpg)
 
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
 * ... of world history 2
-* ?
-* ?
-* ?
 * Ransom - David Malouf
-* ?
 * ... och folktro ?
-* ?
 * Utöar
 * Vietnam
-* ?
-* ?
 * ... in Eastern Europe
 * The Anthropology... ?
 * Samtida - Jan Myrdal
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
 
 * 4x ?
 * ca 100x "Case for copyright reform" - Engström och Falkvinge?
-* ?
 
-* ?
-* ?
 * I naturens riken - Linnés liv och verk
-* ?
-* ?
 * Instagram - Waldersens
-* ?
 * Social psychology 
-* ?
-* ?
-* ?
-* ?
 * Wild profusion
-* ?
-* ?
 * Sex at the margins (!)
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
 * Sociologi - Anthony Giddens
 * Entheogens and life... ?
 * The anthropology of religion
-* ?
-* ?
-* ?
 * On Jung
 
 * Religion och liv
-* ?
-* ?
-* ?
-* ?
-* ?
 * Historien om Gud
-* ?
-* ?
-* ?
 * The New Testament
-* ?
-* ?
 
 ![Tredje hyllan](photos/Evernote%20Camera%20Roll%2020161207%20211257.jpg)
 
-* ?
 * Glad konst
 * Preussen
 * Monet
-* ?
 * Mackintosh - Charles Rennie
 * Ballets suedois
 * Konsten
-* ?
-* ?
-* ?
-* ?
-* ?
 * The Renaissance
-* ?
-* ?
-* ?
-* ?
 * ... i närbild
-* ?
 * ... something about it
 * ... skämt
 * ... och dess historia
 * David Hockney
-* ?
 * Konst och musik genom tiderna
 * Mapplethorpe ?
 
 * Sohlmans, fem band
-* ?
-* ?
 * C.M Bellman - Fredmans epistlar
-* ?
-* ?
-* ?
-* ?
 * En spelmans visor - Dan Andersson
-* ?
-* ?
-* ?
-* ?
 * Bellman
 * Wagner - Fear
-* ?
-* ?
-* ?
-* ?
 
 * 4x Synteism
 * 4x Syntheism
-* ?
-* ?
-* ?
-* ?
-* ?
 * Thinking fast and Slow - Kahnemann
 
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
 * Hume
-* ?
 * Stumbling on happiness - Daniel Gilbert
 * Mark ? - Models
-* ? - The age of spiritual?
 
 ![Fjärde hyllan](photos/Evernote%20Camera%20Roll%2020161207%20211257%20%281%29.jpg)
 
 * Göran Hägg ?
-* ?
 * Litteraturens världshistoria i tolv band
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ? Proust
-* ? Marcel Proust
-* ?
 
-* ?
 * The Liverpool scene
-* ?
-* ?
-* ?
 * En Dramatikers dagbok
-* ?
 * Roland Svensson - Min skärgård och din
-* ?
 * Århundradets ordmusik
-* ?
-* ? Brev från Jarl
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
 
 * Huset Buddenbrook - Thomas Mann
-* ?
-* ?
-* ?
 * Blecktrumman - Gunter Grass
 * Heinrich Boll - Skyddande belägring
-* ?
-* ?
 * Marcel Proust - Brev ?
 * Det femte barnet - Doris Lessing
 * Hermann Hesse - ?
-* ?
 * Virginia Woolf ?
-* ?
 * William Golding - Flugornas herre?
 * Elias Cametti - Förblandningen ?
-* ?
-* ?
-* ?
-* ?
-* ?
 * Harry Martinsson ?
-* ?
-* ?
 * Mina drömmars stad - Per Anders Fogelström
 * ... stad? - Per Anders Fogelström
-* ?
 * Stad i världen - Per Anders Fogelström
-* ?
 * I en förvandlad stad - Per Anders Fogelström
-* ? - Per Anders Fogelström
 * Stad i världen - Per Anders Fogelström
-* ?
 
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ? - Klas Östergren
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
 * 7x ?
-* ?
 * 2x ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
 * Milan Kundera ? Skrattets och glömskans bok?
-* ?
-* ?
-* ?
 
 * 5x ?
 * Cornersmith ?
-* ?
 * This is a cookbook ? 
 * 100 sätt att rädda maten
 * Details - ?
@@ -377,7 +159,6 @@
 * A prayer for the ship - Douglas Reeman
 * Nina Solomin - ?
 * Somerset Maugham ?
-* ?
 * Christopher Sherwood?
 * Billy Liar - The loneliness of the long-distance runner - Waterhouse s?
 * The Penguin - John Grisham?
@@ -385,8 +166,6 @@
 * Ali och Nino - Kurban Said
 * Getting caught
 * Kamelen - Ulrika Berge
-* ? Paula
-* ?
 * Hugo och Josefin - ?
 * Dracula - Bram Stoker
 * Sprickor i vävnaden - ?
@@ -396,21 +175,14 @@
 * En berättelse om herr S?
 * Pojkes egen historia
 * Piano-stämmaren - Daniel Mavon
-* ?
-* ?
 * De gåtfulla barrikaderna - Bengt Söderbergh
-* ?
 * En hand be? - Reidar Jönsson
 * Pasolini requiem - ?
 
-* ?
 * Vilda svanar
 * The end of faith - Sam Harris
 * Till sista droppen - Bengt Göran Gauttin ?
 * Billy budd satel ? - Herman White ??
-* ?
-* ?
-* ?
 * 84 charing cross road - Helene Hanff
 * Tre terminer - Fritiof Nilsson Piraten
 * Drömfångaren - Unni Lindell
@@ -424,27 +196,15 @@
 * Kollektivt självmord - Arto Paasilinna
 * Tusen strålande ? - Khaled ?
 * De främmande djävlarna - Tore Zetterholm
-* ?
 * Ett långt farväl - Claes Hylinger
-* ? - Åsne Seierstad
-* ?
 * Paganinikontraktet - Lars Kepler
 * Stockholmstestet
 * Snabba cash - Jens Lapidus
 
-* ?
-* ?
 * Den postmoderna anstalten - Jon Hellesnes
-* ?
-* ?
-* ?
 * Sari ?
 * Kim ?
 * Vårvinden - Jean Giono
-* ?
-* ?
-* ?
-* ?
 * Västgöta? - Stig Cla?
 * Kattmar?
 * A brief history of time - Stephen Hawking
@@ -487,17 +247,14 @@
 
 ![Sjätte hyllan](photos/Evernote%20Camera%20Roll%2020161207%20211258.jpg)
 
-* ? Magazine #2
 * Aktuellt 1990
 * Konsten genom tiderna - Hugh Honour, John Fleming
-* ?
 * Hästen i grottan - Kerstin Nilsson
 * Monet - Artists by themselves
 * Utan personligt ansvar - Lena Andersson
 * 25 kvadrat
 * Vi i femman
 * The grand landscapes of Sweden - True north
-* ?
 * Så ett frö! - En odlingsbok från Rosendals trädgård
 * Imagine - Erik Johansson
 
