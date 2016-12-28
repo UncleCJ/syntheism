@@ -385,10 +385,121 @@
 * Ali och Nino - Kurban Said
 * Getting caught
 * Kamelen - Ulrika Berge
-* 
+* ? Paula
+* ?
+* Hugo och Josefin - ?
+* Dracula - Bram Stoker
+* Sprickor i vävnaden - ?
+* Parkinsons lag - Northcote Parkinson
+* Vad gör jag här
+* Kärlek - En betraktelse - Alain De Botton
+* En berättelse om herr S?
+* Pojkes egen historia
+* Piano-stämmaren - Daniel Mavon
+* ?
+* ?
+* De gåtfulla barrikaderna - Bengt Söderbergh
+* ?
+* En hand be? - Reidar Jönsson
+* Pasolini requiem - ?
 
+* ?
+* Vilda svanar
+* The end of faith - Sam Harris
+* Till sista droppen - Bengt Göran Gauttin ?
+* Billy budd satel ? - Herman White ??
+* ?
+* ?
+* ?
+* 84 charing cross road - Helene Hanff
+* Tre terminer - Fritiof Nilsson Piraten
+* Drömfångaren - Unni Lindell
+* Passionsspelet - Jonas Gardell
+* Vad gör alla superokända människor hela dagarna - Fredrik Lindström
+* Doppler - Erlend Loe
+* Världens bästa by - Arto Paasilinna
+* Hideaway - Dean Koontz
+* Anastasia - V. Megré
+* Den vita vägen - John Connolly
+* Kollektivt självmord - Arto Paasilinna
+* Tusen strålande ? - Khaled ?
+* De främmande djävlarna - Tore Zetterholm
+* ?
+* Ett långt farväl - Claes Hylinger
+* ? - Åsne Seierstad
+* ?
+* Paganinikontraktet - Lars Kepler
+* Stockholmstestet
+* Snabba cash - Jens Lapidus
+
+* ?
+* ?
+* Den postmoderna anstalten - Jon Hellesnes
+* ?
+* ?
+* ?
+* Sari ?
+* Kim ?
+* Vårvinden - Jean Giono
+* ?
+* ?
+* ?
+* ?
+* Västgöta? - Stig Cla?
+* Kattmar?
+* A brief history of time - Stephen Hawking
+* Att förlora och finna sig själv - Stephen Grosz
+* Eftermiddagens lekar - Björn Collarp
+* Skuggeld - Dean R. Koontz
+* Månen vet inte - Niklas Rådström
+* Tio ? - Arto Paasilinna
+* Liv på dödens fält - Haing Ngor
+* Brasilien brasilien
+* Jor & Ka - Niklas Krog
+* Breven från Polen - Gerard K, Joanna Helander
+* Bilder - Ingmar Bergman
+* The ugly American - William ?
+* Life after God ? - Douglas Coupland
+* Naked lunch - William Burroughs
+* Return to paradise - James A?
+* Summertime - J.M. Coetzee
+* American pastoral - Philip Roth
+* True tales of american life
+
+* I samspråk med djuren - Konrad Lorenz
+* Brev till en bokhandel?
+* Framåt björneborgare
+* Sommarboken - Tove Jansson
+* Spartakus - Howard?
+* Mitt krig mot Putin
+* Bengt P? - Smugglarkungens son?
+* Boken om recovery
+* Camilla Läckberg
+* Åke Edvardson ? - Samm?
+* Min far hade en dröm - Barack Obama
+* På kamelrygg genom öknen
+* Boken om San Michele - Axel Munthe
+* De tio dummaste misstagen klyftiga personer gör och hur man undviker dem - Arthur Freedman, Rose Dewolf
+* Richard Pisk ?
+* Andy McNab ?
+* Comédia infantil - Henning Mankell
+* Märk världen - Tor Nörretranders?
 
 ![Sjätte hyllan](photos/Evernote%20Camera%20Roll%2020161207%20211258.jpg)
+
+* ? Magazine #2
+* Aktuellt 1990
+* Konsten genom tiderna - Hugh Honour, John Fleming
+* ?
+* Hästen i grottan - Kerstin Nilsson
+* Monet - Artists by themselves
+* Utan personligt ansvar - Lena Andersson
+* 25 kvadrat
+* Vi i femman
+* The grand landscapes of Sweden - True north
+* ?
+* Så ett frö! - En odlingsbok från Rosendals trädgård
+* Imagine - Erik Johansson
 
 *(Ska jag göra tabeller, CSV eller Excel? [länk](http://brettterpstra.com/2015/04/22/sublime-text-tips-for-markdown-table-editing/))*
 
