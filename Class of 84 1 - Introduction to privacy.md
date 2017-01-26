@@ -1,7 +1,7 @@
 # Class of '84
 
 * [The event at Noden](https://www.facebook.com/events/1804644909798134/1806714252924533)
-* [Elin's notes in Swedish](https://cryptpad.fr/pad/#/1/view/wH2pCyXoXYrefBITuIaZIA/DX4pAvXsw43WXSIeufLcrQaBH0s9F28HrDa1ZovPsCQ)
+* [Elin's notes in Swedish](https://cryptpad.fr/pad/#/1/view/wH2pCyXoXYrefBITuIaZIA/DX4pAvXsw43WXSIeufLcrQaBH0s9F28HrDa1ZovPsCQ) - they have more content than we covered in this session
 * [Virtual meeting room at meet.jit.si](https://meet.jit.si/DigitalSelfDefence84)
 * [Collaborative notes (these)](http://shamblespad.com/p/classof84-1)
 
@@ -38,7 +38,8 @@ Smárri McCarthy - if the ethical argument for privacy isn't strong enough, mayb
 
 **State - Commercial collaborations**: Be it through "Lawful Intercept" or other channels, many big commercial actors are approached and have collaborations with state actors.
 
-**State - Criminal collaborations**: (NYP article) ... recruited by authorities. 
+**State - Criminal collaborations**: ([NYT article](https://www.nytimes.com/2016/12/13/us/politics/russia-hack-election-dnc.html?_r=0
+)) ... recruited by authorities. 
 
 Anders Ygeman "hemlig data-avläsning"
 
@@ -48,7 +49,10 @@ If you have a sufficiently competent adversary - you will not be able to protect
 
 ## Step 1 toward improved privacy - passphrase management
 https://spideroak.com/solutions/encryptr
-![XKCD on password strength](https://imgs.xkcd.com/comics/password_strength.png) (if you lack imagination there is [a generator](http://preshing.com/20110811/xkcd-password-generator/))
+
+![XKCD on password strength](https://imgs.xkcd.com/comics/password_strength.png) 
+
+(if you lack imagination there is [a generator](http://preshing.com/20110811/xkcd-password-generator/))
 
 Two recommended services:
 * [Lastpass.com](http://lastpass.com)
@@ -70,7 +74,7 @@ Not necessarily suggested:
 * [Adblock Plus](https://adblockplus.org/)
 * [Web Of Trust](https://www.mywot.com/)
 
-[Let's encrypt](https://letsencrypt.org/) provide an automated Certificate Authority giving out free SSL/HTTPS certificates
+[Let's encrypt](https://letsencrypt.org/) provide an automated Certificate Authority giving out free SSL/HTTPS certificates (see also [SSL for free](https://www.sslforfree.com/) and [StartSSL](https://www.startssl.com/))
 
 *Bonus:* Computer software?
 
