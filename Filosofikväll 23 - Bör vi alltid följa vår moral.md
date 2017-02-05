@@ -2,11 +2,11 @@
 
 *[2017-02-05](https://www.facebook.com/events/457429394644785/)* ([omröstningen](https://www.facebook.com/groups/1342182329143737/permalink/1602058223156145/))
 
-Skillnaden mellan [moral](https://en.wikipedia.org/wiki/Morality) och [etik](https://en.wikipedia.org/wiki/Ethics) - etik är diskussionen om moral?
+Skillnaden mellan [moral](https://en.wikipedia.org/wiki/Morality) och [etik](https://en.wikipedia.org/wiki/Ethics) - etik är diskussionen om moral? Citat om [moral](https://www.goodreads.com/quotes/tag/morality).
 
 Syntheismen liknar romarnas polytheism i att vi inte tror på någon Gud som definierar moralen - istället för att placera belöningen bortom livet agerar vi för att få de bästa liven. Religiösa människor är dock generellt lyckligare?
 
-Citat om [moral](https://www.goodreads.com/quotes/tag/morality).
+*Här vill jag infoga ett citat om mobilism kontra eternalism*
 
 Moralen är en rationalisering av vad man tycker är rätt och fel - men det tycker man oavsett rationalisering? Vi agerar moraliskt långt mycket mer än vi diskuterar eller tänker kring det - i så fall kan man beskriva moral som ett [Kahnemans "snabbt" system](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) och den etiska diskussionen ett långsamt sådant. 
 
@@ -20,14 +20,12 @@ Jung säger att [det bor en hycklare](https://droppedin.wordpress.com/2010/10/21
 
 Ken Wilber och Lawrence Kohlberg [Theory of moral development](https://en.wikipedia.org/wiki/Lawrence_Kohlberg's_stages_of_moral_development).
 
-Vi har nått en punkt i vår utveckling där den mänskliga naturen inte längre är lika relevant.
-
-Det finns ett överlapp mellan normer och moral - vissa kan vara ganska utdaterade. Det är t.ex. inte längre samhälleligt relevant när vi har preventivmedel, att förbjuda incest, och det kan t.ex. till och med vara fördelaktigt att äta insektsmjöl - men vi tycker fortfarande att det är äckligt.
+Vi har nått en punkt i vår utveckling där den mänskliga naturen inte längre är lika relevant. Det finns ett överlapp mellan normer och moral - vissa kan vara ganska utdaterade. Det är t.ex. inte längre samhälleligt relevant när vi har preventivmedel, att förbjuda incest, och det kan t.ex. till och med vara fördelaktigt att äta insektsmjöl - men vi tycker fortfarande att det är äckligt.
 
 [Maslows behovstrappa](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs)... oklart vad den hade för koppling till ämnet, utöver diskussion t.ex. om att samhällets implicita (individualistiska?) moral gjort människor ensamma - och att växa upp utan en flerperson-familj är inte bra för barnen.
 
 I samhället antar vi att de flesta (för att förbli delaktiga i gruppen) följer gängse moral - men om någon (sociopatiskt?) bryter normerna har vi inte speciellt starka tvångsåtgärder utöver att förskjuta dem (som sannolikt redan ställt sig utanför vår PK-grupp).
 
-På något sätt definieras moralen utav gruppen - det kan vara som ideologi, av några få långsiktigt tänkande (se [USAs konstitution]()) eller genom mer implicit gruppdynamik. Se även begreppet [Den Store Andre](). Grupppsykologi eller Hivemind fungerar dock inte alls som psykologi på individuell nivå - en farhåga är att grupper kan vara bra mycket "dummare" än dess individer, men också ibland både mer robusta och kraftfulla. En annan aspekt är att utan gruppen kanske vi tappar vår moraliska trygghet (att individualistiska samhällen t.ex. skulle vara mer rasistiska, det är de inte, motsäger den hypotesen).
+På något sätt definieras moralen utav gruppen - det kan vara som ideologi, av några få långsiktigt tänkande (se [USAs konstitution](https://en.wikipedia.org/wiki/United_States_Constitution)) eller genom mer implicit gruppdynamik. Se även begreppet [Den Store Andre](https://en.wikipedia.org/wiki/Jacques_Lacan#Other.2Fother). [Grupppsykologi](https://en.wikipedia.org/wiki/Group_dynamics) eller [Hivemind](https://en.wikipedia.org/wiki/Hive_mind) fungerar dock inte alls som psykologi på individuell nivå - en farhåga är att grupper kan vara bra mycket "dummare" än dess individer, men också ibland både mer robusta och kraftfulla. En annan aspekt är att utan gruppen kanske vi tappar vår moraliska trygghet (att individualistiska samhällen t.ex. skulle vara mer rasistiska, det är de inte, motsäger den hypotesen).
 
 [Spiral dynamics modell](https://en.wikipedia.org/wiki/Don_Edward_Beck) för moral.
