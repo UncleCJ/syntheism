@@ -510,6 +510,183 @@ Geography, Travel
 * Scientism - Mikael Stenmark
 * Grace and grit - Shambhala
 * Imagine - Erik Johansson
+* Märk världen - Tor Nörretranders?
+* The mission of art - Shambhala
+* The tao of physics - Shambhala
+* The marriage of sense and soul - Ken Wilber
+* After disclosure - Dolan and Zabel
+* The eye of spirit - Shambhala
+* Integral psychology - Shambhala
+* Integral spirituality - Wilber
+* Integral life practice - Wilber
+* One taste - Daily reflections on integral spirituality - Wilber
+* Boomeritis - A novel that will set you free - Wilber
+* The Web of life - Fritjof Capra
+* The hidden connection - Fritjof Capra
+* The quantum doctor - Goswami
+
+Sista hyllan, donerade av Joannis
+
+* Dagens dikt
+* En dörr på glänt - Karin Hartman
+* ?
+* ?
+* Att föda en stjärna? - Karin Hartman
+* Diktaköster?
+* Silverbron - Karl Asplund
+* Sorgen och stjärnan - Gunnar Ekelöf
+* I denna natt - Johannes Edfelt
+* ?
+* Tidig vår - Eva Norberg
+* Evig laga ? - Eva Norberg
+* Poesiens logik - Hans Larsson
+* ?
+* ?
+* Hundra år modern fransk dikt
+* På denna lilla stjärna - ?
+* ?
+* Vallfärd till mitten - Kurt Almqvist
+* ?
+* Under aftonstjärnan - E N Söderberg
+* ?
+* ?
+* Trasiga sagor - C E Englund
+* ?
+* ?
+* Kap Horn - Harry Blomberg
+* Skådarsånger - Gunnar Eriksson
+* Döbeln - Karl-Gustaf Hildebrand
+* En broder i nöd
+* Svaret - Nils Bolander
+* ?
+* ?
+* ?
+* ?
+* Poetes d'aujourd hul?
+* ?
+* I krigarens avsikt - Elis Starborg
+* ?
+* Mötesplats - ?
+* ?
+* ?
+* Zukunft der Theologie - Theologie der Zukunft
+* Levande jord - Bengt E Nyström
+* Nådatid - Bengt E Nyström
+* Under vår herres himmel - Bengt E Nyström
+* ?
+* Herden på berget - ?
+* Sprängda horisonter - Einar Malm
+* Västerut - Om männen som röjde Nordamerikas pionjärleder - Dorian, Wilson
+* Rymden klarnar - Bengt E Nyström
+* ?
+* ?
+* ?
+* ?
+* Sociologi - L Gråby
+* ?
+* Berndt Gustafsson
+* Kyrka och folk i Sverige - Johan Nilsson
+* Svensk kyrko historia
+* Handbok i svensk kyrkohistoria?
+* ?
+* ?
+* ?
+* ?
+* ?
+
+* Viktorias bönbok
+* Bön helt enkelt
+* Ögon märkt - Hans Åkerhielm
+* ?
+* Tolkning av nya testamentet x 12
+* Vägen Paulus vandrade -?
+* ?
+* Den suveräne Guden - Christer Gardmeister
+* Kristi pinas historia -?
+* Den kristna tanken - Knut Hagberg
+* Gustav Vasa?
+* Barn psykologi - Tordrup
+* Jesus?
+* Handbok i svensk kyrkohistoria
+* Protestantismens historia
+* Svensk predikan
+* Pompeii och R..?
+* ?
+* ?
+* ?
+* ?
+* Svenska kyrkans historia
+
+* Frälsarens fotspår - Ilmo Launis
+* ?
+* ?
+* Kimono och Kaki - Aage Kharup Nielsen
+* ?
+* ?
+* The forbidden city
+* ?
+* Kyrkans värld
+* Almanacka för 500 år - K-G Segland
+* National geographic image collection
+* ?
+* Wunder des Mowenfluges
+* Stockholm
+* Pompei
+* Sverige - Motormännen
+* Die Götterburgen Mexikos
+* ?
+* Bibelkonkordans
+* Prismas lexikon x5
+* Förenta staternas historia
+* An outline of American history
+* Stockholmsregionen 1952-2003 50 år av region planering
+* Poland's Baltic coast
+* Stockholm - Gullers
+* Luxembourg
+* Skånes goda sidor
+* ?
+* Mexico - Teuscher Reymann
+* ?
+* Kina - Folk och länder
+* ?
+* ?
+* ?
+
+* ?
+* Sights & insights
+* ?
+* Das bildbuch vom Rhein
+* ?
+* ?
+* Celebrated Chinese dishes in Beijing
+* Kineserna - Leijonhufvud Engqvist
+* Trafik
+* Trädgårdsarbete
+* ?
+* The life and epistles of St Paul - T Lewin x2
+* Vikingen
+* SL 100
+* MEXICO
+* The China guide book
+* ?
+* Japan i Närbild
+* The walled Kingdom - Witold Rodzinski
+* 1988 South American handbook
+* Nya familje läkar boken
+* Så började kristendomen - Peter Bamm
+* Så talade fynden - Ceram
+* ?
+* Ett litet stycke Stockholm - Bo Ancker
+
+* Religionen - Hjalmar Sundén
+* ?
+* ?
+* Läkarpedagogik - Hanselmann
+* Social fostran
+* ?
+* ?
+
+
 
 *(Ska jag göra tabeller, CSV eller Excel? [länk](http://brettterpstra.com/2015/04/22/sublime-text-tips-for-markdown-table-editing/))*
 
