@@ -2,54 +2,59 @@
 
 ![Första hyllan](photos/Evernote%20Camera%20Roll%2020161207%20211256.jpg)
 
-* Tender
-* Mat är mer än mig
-* ? 
-* Stora kokboken 
-* ?
-* -boken
-* - fyra årstider
-* ?
-* ?
-* ?
-* ?
+mat:
+
+* Tender, farmers cooks, eaters - Murphy
+* Mat är mer än mig- Kalf-Hansen
+* K-märkt smak
+* De hemliga recepten från Frankrikes bästa restauranger
+* Fryshandboken - Conacher
+* La Cousine Provencale - Crealivres
+* Swedish delights, four centuries of good food
+* Gräddglassboken
+* Manna, en annorlunda utställning om mat
+* Stora kokboken
 * Fröléens Konversations lexikon - band I
 * Fröléens Konversations lexikon - band II
 * Fröléens Konversations lexikon - band III
-* Alt en proveneur et pays ... ?
-* Micro - Dictionare du francais primordial
+* Stora asiatiska kokboken
+* - fyra årstider - lended?
+* AIX en provence et le pays d'AIX
+* Micro Robert - Dictionare du francais primordial
 * Lewis Resa - Per Olov Enquist
-* ?
+* Nouveau Petit Larousse
 
-* ?
-* ?
+Geography, Travel
+
+* Stockholm i tusen bilder
 * Bra böckers världsatlas
-* Världens underverk
+* Världens underverk - missing?
 * Sydamerika - Natur och djurliv
-* ?
-* Geografi
-* Metronome illustré
+* Hem i Sverige, 1932
+* Geografi- Östman
+* Metronome illustré - Lorànt Deutsch
 * Eriksgata - Alf Henrikson
-* New York New York
-* Kejsaren av Kina
-* Åland - Heikki S
-* ?
-* Portugal (!)
-* ?
-* ?
-* ?
+* New York New York - Karlsson, Persson
+* Kejsaren av Kina - Cotterell
+* Åland - Heikki Säynevirta
+* kunskapens kvarter - husen runt Observatoriekullen
+* The green guide - Portugal
+* The National archeological museum of Naples
+* Italy - Michelin
 * Tusen sevärdheter i Sverige
-* ?
+* Möja kyrka - Erik Bohrn
+* Strövtåg kring medelhavet - Gadolin
 * Herr Sandberg ser på England
-* *skänk "för herr bachmanns broschyr"*
-*  - Läckö Slott
+* För herr Bachmanns broschyr - Carl-Johan Vallgren
+* Läckö Slott - De La Gardie
+* Läckö Slott - Rörstrands 250 år
 * På skidor mot Nordpolen - Björn Staib
-* På skridskor i Östra Svealand - Rolf Gezelious
-* ?
-* Lysses - Chile
+* På skridskor i Östra Svealand - Rolf Gezelius
+* Detta Lund - Sven Christer Swahn
+* Ulysses - Chile
 * Vägvisare till naturen i Stockholms län
-* ?
-* ?
+* Öppning i Kambodja - Ekerlid
+* Vägen till Rom - Carl Fries
 * Italien - Tomas Lappalainen
 * Big Island ?
 * ?
@@ -139,7 +144,7 @@
 * ?
 * Instagram - Waldersens
 * ?
-* Social psychology 
+* Social psychology
 * ?
 * ?
 * ?
@@ -360,7 +365,7 @@
 * 5x ?
 * Cornersmith ?
 * ?
-* This is a cookbook ? 
+* This is a cookbook ?
 * 100 sätt att rädda maten
 * Details - ?
 * Livets steg ?
@@ -483,7 +488,6 @@
 * Richard Pisk ?
 * Andy McNab ?
 * Comédia infantil - Henning Mankell
-* Märk världen - Tor Nörretranders?
 
 ![Sjätte hyllan](photos/Evernote%20Camera%20Roll%2020161207%20211258.jpg)
 
@@ -494,11 +498,17 @@
 * Hästen i grottan - Kerstin Nilsson
 * Monet - Artists by themselves
 * Utan personligt ansvar - Lena Andersson
+
 * 25 kvadrat
 * Vi i femman
 * The grand landscapes of Sweden - True north
-* ?
+* En väg till avslappnad närvaro - Vaken vila
 * Så ett frö! - En odlingsbok från Rosendals trädgård
+* Atlas shrugged - Ayn Rand
+* Zen meditation - Ama Samy
+* ?
+* Scientism - Mikael Stenmark
+* Grace and grit - Shambhala
 * Imagine - Erik Johansson
 
 *(Ska jag göra tabeller, CSV eller Excel? [länk](http://brettterpstra.com/2015/04/22/sublime-text-tips-for-markdown-table-editing/))*
