@@ -2,6 +2,8 @@
 
 *[2016-10-02](https://www.facebook.com/events/687513538080447/)* 
 
+*This document is kept [in Github](https://github.com/UncleCJ/syntheism/blob/UncleCJ-patch-1/Philosophy%20gathering%2011%20special%20-%20Ladislaus%20Horatius.md) to be synced with whatever work is done collaboratively in [the pad](http://shamblespad.com/p/philisophy_special_horatius)*
+
 *This seminar was held in Swedish by the philosopher Ladislaus Horatius visiting Noden - thus the notes are in Swedish but for accessibility they will as soon as possible be translated to English*
 
 ## Föreläsning om "visdomsgille" 
