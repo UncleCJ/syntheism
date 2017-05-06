@@ -184,56 +184,74 @@ Geography, Travel
 
 ![Tredje hyllan](photos/Evernote%20Camera%20Roll%2020161207%20211257.jpg)
 
-* ?
-* Glad konst
-* Preussen
-* Monet
-* ?
-* Mackintosh - Charles Rennie
 * Ballets suedois
+* Mackintosh - Charles Rennie
+* The male nude - a modern view - Louville, Smith
+* Monet - Dargère
+* Preussen - Konst och arkitektur
+* Glad konst
+* Det tredje ögat - Hans Gedda
+* The State Tretyakov Gallery
 * Konsten
-* ?
-* ?
-* ?
-* ?
-* ?
-* The Renaissance
-* ?
-* ?
-* ?
-* ?
-* ... i närbild
-* ?
-* ... something about it
-* ... skämt
-* ... och dess historia
-* David Hockney
-* ?
-* Konst och musik genom tiderna
-* Mapplethorpe ?
+* Supermarket 2012 (magasin)
+* arkitektur - 1991
+* Louisiana Revy - 1992 - Spanien
+* Louisiana Revy - 1993 - På kanten af kaos - nye billeder af verden
+* Paletten
+* Paletten 
+* Paletten - Modern konst, gamla mästare
+* Fin-de-siecle faces - Portraiture in the age of Proust
+* Louisiana klubben - 1992
+* Stockholms Stadsbibliotek - Arkitekt Gunnar Asplund
+* Axel Bengtsson - en äktnaiv konstnär
+* Mannen och modet - Inga Wintzell
+* The Renaissance - The dolphin history of painting
+* Van Gogh
+* Edward Hopper - Rolf Günter Renner
+* Galerie Tretiakov
+* Form genom tiden - Form 1992 Människans rum och ting
+* Paintings in Proust - Eric Karpeles
+* Bukowskis internationella vårauktion 2003
+* Vetenskap i närbild - Teknik
+* The New Bohemia - John Gruen
+* Sköna skämt - Sten Möllerström
+* Vestre city scenes
+* Nationalmuseum - Byggnaden och dess historia
+* David Hockney - Marco Livingstone
+* Jenny Lind - M Holmström
+* Konst och musik genom tiderna - Gunnar Sandberg
+* Mapplethorpe 1993 diary
+* Joakim Pirinen - Agneta Klingspor
+* ... something about it - saknas?
 
-* Sohlmans, fem band
+* Sohlmans musik lexikon, fem band
+* ?
+* ?
+* ?
+* ?
+* ?
 * ?
 * ?
 * C.M Bellman - Fredmans epistlar
-* ?
-* ?
-* ?
-* ?
+* Opéra national de Paris 2001-2002 - Billy Budd
 * En spelmans visor - Dan Andersson
-* ?
-* ?
-* ?
-* ?
+* Ökentörst - John Philipson
+* Rigoletto - förbannelsen
+* Falstaff - Alf Henrikson
 * Bellman
-* Wagner - Fear
+* Wagner without Fear - William Berger
 * ?
-* ?
-* ?
-* ?
+* Nibelungens ring - Richard Wagner
+* Valkyrian
+* Aspects of Wagner - Magee
+* Kung Lear - Dramaten
+* Spara mindre - få ut mer - Claes Hemberg (fel hylla?)
+* Växter för tomt och trädgård - Britta Tingdal (fel hylla)
+* Tidens stora bok om rumsväxter
 
-* 4x Synteism
-* 4x Syntheism
+* Den stora djurboken - Dr. V.J. Stanek
+* 2x Synteism
+* 4x Syntheism - slut!
 * ?
 * ?
 * ?
@@ -488,6 +506,10 @@ Geography, Travel
 * Richard Pisk ?
 * Andy McNab ?
 * Comédia infantil - Henning Mankell
+* Utvandrarna - Vilhelm Moberg
+* Invandrarna - Vilhelm Moberg
+* Sista brevet till Sverige - Vilhelm Moberg
+* Nybyggarna - Vilhelm Moberg
 
 ![Sjätte hyllan](photos/Evernote%20Camera%20Roll%2020161207%20211258.jpg)
 
