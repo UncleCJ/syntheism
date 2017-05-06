@@ -375,7 +375,6 @@ Geography, Travel
 * ?
 * ?
 * ?
-* Milan Kundera ? Skrattets och glömskans bok?
 * ?
 * ?
 * ?
@@ -393,47 +392,48 @@ Geography, Travel
 
 ![Femte hyllan](photos/Evernote%20Camera%20Roll%2020161207%20211257%20%282%29.jpg)
 
-* Cormac McCarthy - No country for old men
-* John Braine
-* A significant experience
+* No country for old men - Cormac McCarthy
+* Room at the top - John Braine
+* A significant experience - Griffin
 * The dream at the end of the world - Michelle ?
 * A prayer for the ship - Douglas Reeman
-* Nina Solomin - ?
-* Somerset Maugham ?
-* ?
-* Christopher Sherwood?
-* Billy Liar - The loneliness of the long-distance runner - Waterhouse s?
-* The Penguin - John Grisham?
+* Ok, amen - Nina Solomin
+* Collected short stories 4 - Somerset Maugham
+* Christopher and his kind - Christopher Isherwood
+* Billy Liar - The loneliness of the long-distance runner - Waterhouse Silltoe
+* The Penguin - John Glashan
 * Red sky at morning - Richard Bradford
 * Ali och Nino - Kurban Said
 * Getting caught
 * Kamelen - Ulrika Berge
-* ? Paula
-* ?
-* Hugo och Josefin - ?
+* Paula - Walter Ljungquist
+* Gallret - utanför och innanför - Hugo Lindberg
+* Hugo och Josefin - Maria Gripe
 * Dracula - Bram Stoker
 * Sprickor i vävnaden - ?
 * Parkinsons lag - Northcote Parkinson
-* Vad gör jag här
+* Vad gör jag här - Bruce Chatwin
 * Kärlek - En betraktelse - Alain De Botton
-* En berättelse om herr S?
-* Pojkes egen historia
-* Piano-stämmaren - Daniel Mavon
-* ?
-* ?
+* En berättelse om herr Silberstein - Erland Josephson
+* En pojkes egen historia - Edmund White
+* Piano-stämmaren - Daniel Mason
+* The Grand Landscapes of Sweden - True North
+* Källan - James A. Michener
 * De gåtfulla barrikaderna - Bengt Söderbergh
-* ?
-* En hand be? - Reidar Jönsson
-* Pasolini requiem - ?
+* Det blommande granat-äppelträdet - Hwang Tsu-Yü
+* Pasolini requiem - Barth David Schwartz
+* Skrattets och glömskans bok - Milan Kundera
+* Vilda svanar - Jung Chang
+* Natural harvest, a collection of semen-based recipes - Paul "Fotie" Photenhauer
+* Till sista droppen - Bengt Göran Gauffin
+* Billy Budd, Sailor - Herman Melville
+* Min faster i Paris - Rose C. Feld
 
-* ?
-* Vilda svanar
-* The end of faith - Sam Harris
-* Till sista droppen - Bengt Göran Gauttin ?
-* Billy budd satel ? - Herman White ??
-* ?
-* ?
-* ?
+* En hand be? - Reidar Jönsson - Moved? 
+* The end of faith - Sam Harris - Moved? 
+
+* La symphonie pastorale - André Gide
+* Les nuits fauves - Cyril Collard
 * 84 charing cross road - Helene Hanff
 * Tre terminer - Fritiof Nilsson Piraten
 * Drömfångaren - Unni Lindell
@@ -441,50 +441,53 @@ Geography, Travel
 * Vad gör alla superokända människor hela dagarna - Fredrik Lindström
 * Doppler - Erlend Loe
 * Världens bästa by - Arto Paasilinna
-* Hideaway - Dean Koontz
-* Anastasia - V. Megré
-* Den vita vägen - John Connolly
 * Kollektivt självmord - Arto Paasilinna
-* Tusen strålande ? - Khaled ?
-* De främmande djävlarna - Tore Zetterholm
-* ?
+* Tio rivjärn - Arto Paasilinna
+* Hideaway - Dean Koontz
+* Naked lunch - William Burroughs
+* Return to paradise - James A. Michener
+* The ugly American - William J. Lederer, Eugene Burdick
+* Hadrianus minnen - Marguerite Yourcenar
 * Ett långt farväl - Claes Hylinger
-* ? - Åsne Seierstad
-* ?
+* Bokhandlaren i Kabul - Åsne Seierstad
+* Hundra och en dag - Åsne Seierstad
 * Paganinikontraktet - Lars Kepler
 * Stockholmstestet
 * Snabba cash - Jens Lapidus
-
-* ?
-* ?
+* De främmande djävlarna - Tore Zetterholm
+* Ett öga rött - Jonas Hassen Khemiri
+* Blodets oro - Einar Malm
+* Lergods - Ivo Iliste
 * Den postmoderna anstalten - Jon Hellesnes
-* ?
-* ?
-* ?
-* Sari ?
-* Kim ?
+* Tegelmästare Lundin och stora världen - Per Gunnar Evander
+* Jag kan inte stanna länge - Laurie Lee
+* Hur stora författare arbetar - Franzén
+* Sari - Eric Lundquist
+* Kim - Vibeke Malthe-Bruun
 * Vårvinden - Jean Giono
-* ?
-* ?
+* Svarta tjurar - Evert Taube
+* Katrina - Sally Salminen
+
+* Anastasia - V. Megré
+* Den vita vägen - John Connolly
+* Tusen strålande ? - Khaled ?
+* Bara lite roligt... - Gerda Antti
 * ?
 * ?
 * Västgöta? - Stig Cla?
-* Kattmar?
 * A brief history of time - Stephen Hawking
 * Att förlora och finna sig själv - Stephen Grosz
 * Eftermiddagens lekar - Björn Collarp
 * Skuggeld - Dean R. Koontz
 * Månen vet inte - Niklas Rådström
-* Tio ? - Arto Paasilinna
 * Liv på dödens fält - Haing Ngor
 * Brasilien brasilien
 * Jor & Ka - Niklas Krog
 * Breven från Polen - Gerard K, Joanna Helander
 * Bilder - Ingmar Bergman
-* The ugly American - William ?
 * Life after God ? - Douglas Coupland
-* Naked lunch - William Burroughs
-* Return to paradise - James A?
+
+
 * Summertime - J.M. Coetzee
 * American pastoral - Philip Roth
 * True tales of american life
