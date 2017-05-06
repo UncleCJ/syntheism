@@ -57,21 +57,10 @@ Geography, Travel
 * Vägen till Rom - Carl Fries
 * Italien - Tomas Lappalainen
 * Big Island ?
-* ?
 * A tourist guide to T...?
 
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
 * Atomfysikens grunder I
 * Våglära och optik
-* ?
 * Formelsamling i hållfasthetslära
 * Analys i en variabel
 * Analys i flera variabler
@@ -80,107 +69,38 @@ Geography, Travel
 * Energiteknik del 2 - Henrik Alvarez
 * Energiteknik del 1 - Henrik Alvarez
 
-* ?
-* ?
-* ?
 * Stora engelska ordboken
-* ?
 * Lilla engelska ordboken
-* ?
-* ?
 
-* ?
-* ?
-* ?
 * Retorik idag - Göran Hägg
 
 ![Andra hyllan](photos/Evernote%20Camera%20Roll%2020161207%20211256%20%281%29.jpg)
 
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
 * ... of world history 2
-* ?
-* ?
-* ?
 * Ransom - David Malouf
-* ?
 * ... och folktro ?
-* ?
 * Utöar
 * Vietnam
-* ?
-* ?
 * ... in Eastern Europe
 * The Anthropology... ?
 * Samtida - Jan Myrdal
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
 
 * 4x ?
 * ca 100x "Case for copyright reform" - Engström och Falkvinge?
-* ?
 
-* ?
-* ?
 * I naturens riken - Linnés liv och verk
-* ?
-* ?
 * Instagram - Waldersens
-* ?
 * Social psychology
-* ?
-* ?
-* ?
-* ?
 * Wild profusion
-* ?
-* ?
 * Sex at the margins (!)
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
 * Sociologi - Anthony Giddens
 * Entheogens and life... ?
 * The anthropology of religion
-* ?
-* ?
-* ?
 * On Jung
 
 * Religion och liv
-* ?
-* ?
-* ?
-* ?
-* ?
 * Historien om Gud
-* ?
-* ?
-* ?
 * The New Testament
-* ?
-* ?
 
 ![Tredje hyllan](photos/Evernote%20Camera%20Roll%2020161207%20211257.jpg)
 
@@ -225,13 +145,6 @@ Geography, Travel
 * ... something about it - saknas?
 
 * Sohlmans musik lexikon, fem band
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
 * C.M Bellman - Fredmans epistlar
 * Opéra national de Paris 2001-2002 - Billy Budd
 * En spelmans visor - Dan Andersson
@@ -240,7 +153,6 @@ Geography, Travel
 * Falstaff - Alf Henrikson
 * Bellman
 * Wagner without Fear - William Berger
-* ?
 * Nibelungens ring - Richard Wagner
 * Valkyrian
 * Aspects of Wagner - Magee
@@ -252,136 +164,43 @@ Geography, Travel
 * Den stora djurboken - Dr. V.J. Stanek
 * 2x Synteism
 * 4x Syntheism - slut!
-* ?
-* ?
-* ?
-* ?
-* ?
 * Thinking fast and Slow - Kahnemann
 
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
 * Hume
-* ?
 * Stumbling on happiness - Daniel Gilbert
 * Mark ? - Models
-* ? - The age of spiritual?
 
 ![Fjärde hyllan](photos/Evernote%20Camera%20Roll%2020161207%20211257%20%281%29.jpg)
 
 * Göran Hägg ?
-* ?
 * Litteraturens världshistoria i tolv band
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ? Proust
-* ? Marcel Proust
-* ?
 
-* ?
 * The Liverpool scene
-* ?
-* ?
-* ?
 * En Dramatikers dagbok
-* ?
 * Roland Svensson - Min skärgård och din
-* ?
 * Århundradets ordmusik
-* ?
-* ? Brev från Jarl
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
 
 * Huset Buddenbrook - Thomas Mann
-* ?
-* ?
-* ?
 * Blecktrumman - Gunter Grass
 * Heinrich Boll - Skyddande belägring
-* ?
-* ?
 * Marcel Proust - Brev ?
 * Det femte barnet - Doris Lessing
 * Hermann Hesse - ?
-* ?
 * Virginia Woolf ?
-* ?
 * William Golding - Flugornas herre?
 * Elias Cametti - Förblandningen ?
-* ?
-* ?
-* ?
-* ?
-* ?
 * Harry Martinsson ?
-* ?
-* ?
 * Mina drömmars stad - Per Anders Fogelström
 * ... stad? - Per Anders Fogelström
-* ?
 * Stad i världen - Per Anders Fogelström
-* ?
 * I en förvandlad stad - Per Anders Fogelström
-* ? - Per Anders Fogelström
 * Stad i världen - Per Anders Fogelström
-* ?
 
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ? - Klas Östergren
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
 * 7x ?
-* ?
 * 2x ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
-* ?
 
 * 5x ?
 * Cornersmith ?
-* ?
 * This is a cookbook ?
 * 100 sätt att rädda maten
 * Details - ?
@@ -472,8 +291,6 @@ Geography, Travel
 * Den vita vägen - John Connolly
 * Tusen strålande ? - Khaled ?
 * Bara lite roligt... - Gerda Antti
-* ?
-* ?
 * Västgöta? - Stig Cla?
 * A brief history of time - Stephen Hawking
 * Att förlora och finna sig själv - Stephen Grosz
@@ -516,10 +333,8 @@ Geography, Travel
 
 ![Sjätte hyllan](photos/Evernote%20Camera%20Roll%2020161207%20211258.jpg)
 
-* ? Magazine #2
 * Aktuellt 1990
 * Konsten genom tiderna - Hugh Honour, John Fleming
-* ?
 * Hästen i grottan - Kerstin Nilsson
 * Monet - Artists by themselves
 * Utan personligt ansvar - Lena Andersson
@@ -531,7 +346,6 @@ Geography, Travel
 * Så ett frö! - En odlingsbok från Rosendals trädgård
 * Atlas shrugged - Ayn Rand
 * Zen meditation - Ama Samy
-* ?
 * Scientism - Mikael Stenmark
 * Grace and grit - Shambhala
 * Imagine - Erik Johansson
@@ -554,78 +368,46 @@ Sista hyllan, donerade av Joannis
 
 * Dagens dikt
 * En dörr på glänt - Karin Hartman
-* ?
-* ?
 * Att föda en stjärna? - Karin Hartman
 * Diktaköster?
 * Silverbron - Karl Asplund
 * Sorgen och stjärnan - Gunnar Ekelöf
 * I denna natt - Johannes Edfelt
-* ?
 * Tidig vår - Eva Norberg
 * Evig laga ? - Eva Norberg
 * Poesiens logik - Hans Larsson
-* ?
-* ?
 * Hundra år modern fransk dikt
 * På denna lilla stjärna - ?
-* ?
 * Vallfärd till mitten - Kurt Almqvist
-* ?
 * Under aftonstjärnan - E N Söderberg
-* ?
-* ?
 * Trasiga sagor - C E Englund
-* ?
-* ?
 * Kap Horn - Harry Blomberg
 * Skådarsånger - Gunnar Eriksson
 * Döbeln - Karl-Gustaf Hildebrand
 * En broder i nöd
 * Svaret - Nils Bolander
-* ?
-* ?
-* ?
-* ?
 * Poetes d'aujourd hul?
-* ?
 * I krigarens avsikt - Elis Starborg
-* ?
 * Mötesplats - ?
-* ?
-* ?
 * Zukunft der Theologie - Theologie der Zukunft
 * Levande jord - Bengt E Nyström
 * Nådatid - Bengt E Nyström
 * Under vår herres himmel - Bengt E Nyström
-* ?
 * Herden på berget - ?
 * Sprängda horisonter - Einar Malm
 * Västerut - Om männen som röjde Nordamerikas pionjärleder - Dorian, Wilson
 * Rymden klarnar - Bengt E Nyström
-* ?
-* ?
-* ?
-* ?
 * Sociologi - L Gråby
-* ?
 * Berndt Gustafsson
 * Kyrka och folk i Sverige - Johan Nilsson
 * Svensk kyrko historia
 * Handbok i svensk kyrkohistoria?
-* ?
-* ?
-* ?
-* ?
-* ?
 
 * Viktorias bönbok
 * Bön helt enkelt
 * Ögon märkt - Hans Åkerhielm
-* ?
 * Tolkning av nya testamentet x 12
 * Vägen Paulus vandrade -?
-* ?
 * Den suveräne Guden - Christer Gardmeister
 * Kristi pinas historia -?
 * Den kristna tanken - Knut Hagberg
@@ -636,30 +418,19 @@ Sista hyllan, donerade av Joannis
 * Protestantismens historia
 * Svensk predikan
 * Pompeii och R..?
-* ?
-* ?
-* ?
-* ?
 * Svenska kyrkans historia
 
 * Frälsarens fotspår - Ilmo Launis
-* ?
-* ?
 * Kimono och Kaki - Aage Kharup Nielsen
-* ?
-* ?
 * The forbidden city
-* ?
 * Kyrkans värld
 * Almanacka för 500 år - K-G Segland
 * National geographic image collection
-* ?
 * Wunder des Mowenfluges
 * Stockholm
 * Pompei
 * Sverige - Motormännen
 * Die Götterburgen Mexikos
-* ?
 * Bibelkonkordans
 * Prismas lexikon x5
 * Förenta staternas historia
@@ -669,47 +440,31 @@ Sista hyllan, donerade av Joannis
 * Stockholm - Gullers
 * Luxembourg
 * Skånes goda sidor
-* ?
 * Mexico - Teuscher Reymann
-* ?
 * Kina - Folk och länder
-* ?
-* ?
-* ?
 
-* ?
 * Sights & insights
-* ?
 * Das bildbuch vom Rhein
-* ?
-* ?
 * Celebrated Chinese dishes in Beijing
 * Kineserna - Leijonhufvud Engqvist
 * Trafik
 * Trädgårdsarbete
-* ?
 * The life and epistles of St Paul - T Lewin x2
 * Vikingen
 * SL 100
 * MEXICO
 * The China guide book
-* ?
 * Japan i Närbild
 * The walled Kingdom - Witold Rodzinski
 * 1988 South American handbook
 * Nya familje läkar boken
 * Så började kristendomen - Peter Bamm
 * Så talade fynden - Ceram
-* ?
 * Ett litet stycke Stockholm - Bo Ancker
 
 * Religionen - Hjalmar Sundén
-* ?
-* ?
 * Läkarpedagogik - Hanselmann
 * Social fostran
-* ?
-* ?
 
 
 
