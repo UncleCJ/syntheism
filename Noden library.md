@@ -2,36 +2,59 @@
 
 ![Första hyllan](photos/Evernote%20Camera%20Roll%2020161207%20211256.jpg)
 
-* Tender
-* Mat är mer än mig
-* Stora kokboken 
-* -boken
-* - fyra årstider
+mat:
+
+* Tender, farmers cooks, eaters - Murphy
+* Mat är mer än mig- Kalf-Hansen
+* K-märkt smak
+* De hemliga recepten från Frankrikes bästa restauranger
+* Fryshandboken - Conacher
+* La Cousine Provencale - Crealivres
+* Swedish delights, four centuries of good food
+* Gräddglassboken
+* Manna, en annorlunda utställning om mat
+* Stora kokboken
 * Fröléens Konversations lexikon - band I
 * Fröléens Konversations lexikon - band II
 * Fröléens Konversations lexikon - band III
-* Alt en proveneur et pays ... ?
-* Micro - Dictionare du francais primordial
+* Stora asiatiska kokboken
+* - fyra årstider - lended?
+* AIX en provence et le pays d'AIX
+* Micro Robert - Dictionare du francais primordial
 * Lewis Resa - Per Olov Enquist
+* Nouveau Petit Larousse
 
+Geography, Travel
+
+* Stockholm i tusen bilder
 * Bra böckers världsatlas
-* Världens underverk
+* Världens underverk - missing?
 * Sydamerika - Natur och djurliv
-* Geografi
-* Metronome illustré
+* Hem i Sverige, 1932
+* Geografi- Östman
+* Metronome illustré - Lorànt Deutsch
 * Eriksgata - Alf Henrikson
-* New York New York
-* Kejsaren av Kina
-* Åland - Heikki S
-* Portugal (!)
+* New York New York - Karlsson, Persson
+* Kejsaren av Kina - Cotterell
+* Åland - Heikki Säynevirta
+* kunskapens kvarter - husen runt Observatoriekullen
+* The green guide - Portugal
+* The National archeological museum of Naples
+* Italy - Michelin
 * Tusen sevärdheter i Sverige
+* Möja kyrka - Erik Bohrn
+* Strövtåg kring medelhavet - Gadolin
 * Herr Sandberg ser på England
-* *skänk "för herr bachmanns broschyr"*
-*  - Läckö Slott
+* För herr Bachmanns broschyr - Carl-Johan Vallgren
+* Läckö Slott - De La Gardie
+* Läckö Slott - Rörstrands 250 år
 * På skidor mot Nordpolen - Björn Staib
-* På skridskor i Östra Svealand - Rolf Gezelious
-* Lysses - Chile
+* På skridskor i Östra Svealand - Rolf Gezelius
+* Detta Lund - Sven Christer Swahn
+* Ulysses - Chile
 * Vägvisare till naturen i Stockholms län
+* Öppning i Kambodja - Ekerlid
+* Vägen till Rom - Carl Fries
 * Italien - Tomas Lappalainen
 * Big Island ?
 * A tourist guide to T...?
@@ -67,7 +90,7 @@
 
 * I naturens riken - Linnés liv och verk
 * Instagram - Waldersens
-* Social psychology 
+* Social psychology
 * Wild profusion
 * Sex at the margins (!)
 * Sociologi - Anthony Giddens
@@ -81,29 +104,66 @@
 
 ![Tredje hyllan](photos/Evernote%20Camera%20Roll%2020161207%20211257.jpg)
 
-* Glad konst
-* Preussen
-* Monet
-* Mackintosh - Charles Rennie
 * Ballets suedois
+* Mackintosh - Charles Rennie
+* The male nude - a modern view - Louville, Smith
+* Monet - Dargère
+* Preussen - Konst och arkitektur
+* Glad konst
+* Det tredje ögat - Hans Gedda
+* The State Tretyakov Gallery
 * Konsten
-* The Renaissance
-* ... i närbild
-* ... something about it
-* ... skämt
-* ... och dess historia
-* David Hockney
-* Konst och musik genom tiderna
-* Mapplethorpe ?
+* Supermarket 2012 (magasin)
+* arkitektur - 1991
+* Louisiana Revy - 1992 - Spanien
+* Louisiana Revy - 1993 - På kanten af kaos - nye billeder af verden
+* Paletten
+* Paletten 
+* Paletten - Modern konst, gamla mästare
+* Fin-de-siecle faces - Portraiture in the age of Proust
+* Louisiana klubben - 1992
+* Stockholms Stadsbibliotek - Arkitekt Gunnar Asplund
+* Axel Bengtsson - en äktnaiv konstnär
+* Mannen och modet - Inga Wintzell
+* The Renaissance - The dolphin history of painting
+* Van Gogh
+* Edward Hopper - Rolf Günter Renner
+* Galerie Tretiakov
+* Form genom tiden - Form 1992 Människans rum och ting
+* Paintings in Proust - Eric Karpeles
+* Bukowskis internationella vårauktion 2003
+* Vetenskap i närbild - Teknik
+* The New Bohemia - John Gruen
+* Sköna skämt - Sten Möllerström
+* Vestre city scenes
+* Nationalmuseum - Byggnaden och dess historia
+* David Hockney - Marco Livingstone
+* Jenny Lind - M Holmström
+* Konst och musik genom tiderna - Gunnar Sandberg
+* Mapplethorpe 1993 diary
+* Joakim Pirinen - Agneta Klingspor
+* ... something about it - saknas?
 
-* Sohlmans, fem band
+* Sohlmans musik lexikon, fem band
 * C.M Bellman - Fredmans epistlar
+* Opéra national de Paris 2001-2002 - Billy Budd
 * En spelmans visor - Dan Andersson
+* Ökentörst - John Philipson
+* Rigoletto - förbannelsen
+* Falstaff - Alf Henrikson
 * Bellman
-* Wagner - Fear
+* Wagner without Fear - William Berger
+* Nibelungens ring - Richard Wagner
+* Valkyrian
+* Aspects of Wagner - Magee
+* Kung Lear - Dramaten
+* Spara mindre - få ut mer - Claes Hemberg (fel hylla?)
+* Växter för tomt och trädgård - Britta Tingdal (fel hylla)
+* Tidens stora bok om rumsväxter
 
-* 4x Synteism
-* 4x Syntheism
+* Den stora djurboken - Dr. V.J. Stanek
+* 2x Synteism
+* 4x Syntheism - slut!
 * Thinking fast and Slow - Kahnemann
 
 * Hume
@@ -142,7 +202,7 @@
 
 * 5x ?
 * Cornersmith ?
-* This is a cookbook ? 
+* This is a cookbook ?
 * 100 sätt att rädda maten
 * Details - ?
 * Livets steg ?
@@ -243,7 +303,10 @@
 * Richard Pisk ?
 * Andy McNab ?
 * Comédia infantil - Henning Mankell
-* Märk världen - Tor Nörretranders?
+* Utvandrarna - Vilhelm Moberg
+* Invandrarna - Vilhelm Moberg
+* Sista brevet till Sverige - Vilhelm Moberg
+* Nybyggarna - Vilhelm Moberg
 
 ![Sjätte hyllan](photos/Evernote%20Camera%20Roll%2020161207%20211258.jpg)
 
@@ -252,11 +315,135 @@
 * Hästen i grottan - Kerstin Nilsson
 * Monet - Artists by themselves
 * Utan personligt ansvar - Lena Andersson
+
 * 25 kvadrat
 * Vi i femman
 * The grand landscapes of Sweden - True north
+* En väg till avslappnad närvaro - Vaken vila
 * Så ett frö! - En odlingsbok från Rosendals trädgård
+* Atlas shrugged - Ayn Rand
+* Zen meditation - Ama Samy
+* Scientism - Mikael Stenmark
+* Grace and grit - Shambhala
 * Imagine - Erik Johansson
+* Märk världen - Tor Nörretranders?
+* The mission of art - Shambhala
+* The tao of physics - Shambhala
+* The marriage of sense and soul - Ken Wilber
+* After disclosure - Dolan and Zabel
+* The eye of spirit - Shambhala
+* Integral psychology - Shambhala
+* Integral spirituality - Wilber
+* Integral life practice - Wilber
+* One taste - Daily reflections on integral spirituality - Wilber
+* Boomeritis - A novel that will set you free - Wilber
+* The Web of life - Fritjof Capra
+* The hidden connection - Fritjof Capra
+* The quantum doctor - Goswami
+
+Sista hyllan, donerade av Joannis
+
+* Dagens dikt
+* En dörr på glänt - Karin Hartman
+* Att föda en stjärna? - Karin Hartman
+* Diktaköster?
+* Silverbron - Karl Asplund
+* Sorgen och stjärnan - Gunnar Ekelöf
+* I denna natt - Johannes Edfelt
+* Tidig vår - Eva Norberg
+* Evig laga ? - Eva Norberg
+* Poesiens logik - Hans Larsson
+* Hundra år modern fransk dikt
+* På denna lilla stjärna - ?
+* Vallfärd till mitten - Kurt Almqvist
+* Under aftonstjärnan - E N Söderberg
+* Trasiga sagor - C E Englund
+* Kap Horn - Harry Blomberg
+* Skådarsånger - Gunnar Eriksson
+* Döbeln - Karl-Gustaf Hildebrand
+* En broder i nöd
+* Svaret - Nils Bolander
+* Poetes d'aujourd hul?
+* I krigarens avsikt - Elis Starborg
+* Mötesplats - ?
+* Zukunft der Theologie - Theologie der Zukunft
+* Levande jord - Bengt E Nyström
+* Nådatid - Bengt E Nyström
+* Under vår herres himmel - Bengt E Nyström
+* Herden på berget - ?
+* Sprängda horisonter - Einar Malm
+* Västerut - Om männen som röjde Nordamerikas pionjärleder - Dorian, Wilson
+* Rymden klarnar - Bengt E Nyström
+* Sociologi - L Gråby
+* Berndt Gustafsson
+* Kyrka och folk i Sverige - Johan Nilsson
+* Svensk kyrko historia
+* Handbok i svensk kyrkohistoria?
+
+* Viktorias bönbok
+* Bön helt enkelt
+* Ögon märkt - Hans Åkerhielm
+* Tolkning av nya testamentet x 12
+* Vägen Paulus vandrade -?
+* Den suveräne Guden - Christer Gardmeister
+* Kristi pinas historia -?
+* Den kristna tanken - Knut Hagberg
+* Gustav Vasa?
+* Barn psykologi - Tordrup
+* Jesus?
+* Handbok i svensk kyrkohistoria
+* Protestantismens historia
+* Svensk predikan
+* Pompeii och R..?
+* Svenska kyrkans historia
+
+* Frälsarens fotspår - Ilmo Launis
+* Kimono och Kaki - Aage Kharup Nielsen
+* The forbidden city
+* Kyrkans värld
+* Almanacka för 500 år - K-G Segland
+* National geographic image collection
+* Wunder des Mowenfluges
+* Stockholm
+* Pompei
+* Sverige - Motormännen
+* Die Götterburgen Mexikos
+* Bibelkonkordans
+* Prismas lexikon x5
+* Förenta staternas historia
+* An outline of American history
+* Stockholmsregionen 1952-2003 50 år av region planering
+* Poland's Baltic coast
+* Stockholm - Gullers
+* Luxembourg
+* Skånes goda sidor
+* Mexico - Teuscher Reymann
+* Kina - Folk och länder
+
+* Sights & insights
+* Das bildbuch vom Rhein
+* Celebrated Chinese dishes in Beijing
+* Kineserna - Leijonhufvud Engqvist
+* Trafik
+* Trädgårdsarbete
+* The life and epistles of St Paul - T Lewin x2
+* Vikingen
+* SL 100
+* MEXICO
+* The China guide book
+* Japan i Närbild
+* The walled Kingdom - Witold Rodzinski
+* 1988 South American handbook
+* Nya familje läkar boken
+* Så började kristendomen - Peter Bamm
+* Så talade fynden - Ceram
+* Ett litet stycke Stockholm - Bo Ancker
+
+* Religionen - Hjalmar Sundén
+* Läkarpedagogik - Hanselmann
+* Social fostran
+
+
 
 *(Ska jag göra tabeller, CSV eller Excel? [länk](http://brettterpstra.com/2015/04/22/sublime-text-tips-for-markdown-table-editing/))*
 
