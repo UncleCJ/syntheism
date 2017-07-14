@@ -1,8 +1,5 @@
 
 # How I learned to stop worrying and love the Netocracy
-
-
-
 For a long time we have made significant ideological progress in terms of equality, productivity and general well being. Every sensible person will say no to sexism, racism, fascism etc. Most agree that mythology is just that. But many make the mistake believing majority is secured so the battle must be won? Turns out not everyone are caught up with our progress and the last moron is not yet born.
 
 The thing is we don't execute morons and ideological opponents, we can't. Unless we manage to convert and improve their thinking (some every day in a drawn out struggle rather than single battles), they're still there, opposing us quietly instead! Deprived of a politically correct voice, they build their own idea bubbles in their own weird havens, free from your criticism.
