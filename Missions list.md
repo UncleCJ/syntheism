@@ -29,6 +29,7 @@
 * Clean the oventop
   Use cleaning agents and cleaning sponge 
 * Grocery cupboard
+
 ** Throw away old food 
 ** Sort food after labeling 
 ** Wipe on shelves 
