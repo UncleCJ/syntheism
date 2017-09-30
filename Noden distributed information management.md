@@ -6,7 +6,7 @@ We are tired of all the talking - to do things properly, among the first things 
 
 ## Simple, transparent formats ##
 
-   ![People, especially if you're going to collaborate on something, you've got to choose the most transparent and simple formats!](noden_distributed_information_management_transparent_formats.png)
+   ![People, especially if you're going to collaborate on something, you've got to choose the most transparent and simple formats!](images/noden_distributed_information_management_transparent_formats.png)
 
 * If possible, rather than PDF, use an editable format.
 * Rather than Word, Excel and Dropbox, use Google Drive.
@@ -34,6 +34,8 @@ PS. Obviously don't take this too literally but understand my thought behind it.
 | Github        | ✔   | ✔   |  -  | ✔   | ✔   |
 | Etherpad      | ✔   | ✔   | ✔   | ❌   | ❌   |
 | Pen and paper |  -  | ❌   | ✔   | ❌   | ✔   |
+
+*Conclusion - A combination of Github, etherpad, pen and paper give the most complete basic set of desired features*
 
 ## Github ##
 
