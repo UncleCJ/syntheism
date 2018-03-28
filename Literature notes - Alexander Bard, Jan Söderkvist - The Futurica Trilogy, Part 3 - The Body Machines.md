@@ -1,7 +1,6 @@
-## The Body Machines –The Futurica Trilogy, Part 3 (Loc 8427) ##
+# The Body Machines –The Futurica Trilogy, Part 3 (Loc 8427) #
 
-
-**The Body Machines –The Futurica Trilogy, Part 3 (Loc 8427)**
+## Contents ##
 
 - 1. The Rise and Fall of the Soul (Loc 8429)
 - 2. A Brief History of the Brain (Loc 8749)
@@ -18,9 +17,7 @@
 - +1. (A Sort of Afterword)
 - Futurica Glossary
 
-
-
-### 1. The Rise and Fall of the Soul (Loc 8429) ###
+## 1. The Rise and Fall of the Soul (Loc 8429) ##
 
 8452: It guarantees a continuation of the life we are so reluctant to give up –and which we therefore need not care too much about how we live, or perhaps not even live particularly carefully at all, seeing as time, thanks to the soul, is unlimited –at the same time as it promises a total make-over of everyday greyness and exhaustion for anyone who plays their cards right. The soul thus constitutes the very cornerstone of the construct that imbues everything with a higher purpose. It's hardly surprising that this concept has proved incredibly popular.
 
@@ -34,27 +31,27 @@
 
 8707: one conclusion we must draw from all the collective research into the human brain is that it is evidently constructed to seek for meaning and contexts everywhere. Behind this obvious need is an evolutionary logic: we have an unquenchable thirst for meaning which turns us into compulsive puzzle-solvers, which in turn increases our chances of surviving and reproducing. The consequence is that we do not leave anything to chance, and when the picture is incomplete for whatever reason, we fill in the gaps we believe are there, often unconsciously. And where existential questions are concerned, the meaning of everything, there is undoubtedly a lot to fill in, one way or another.
 
-### 2. A Brief History of the Brain (Loc 8749) ###
+## 2. A Brief History of the Brain (Loc 8749) ##
 
 9042: So, for materialists like us, the most satisfactory explanation of the sensationally rapid development of our oversized brains is that the females among our closest ancestors simply thought that males with big brains were exceptionally attractive. A big brain was in many respects a heavy burden to drag around, but it brought its owner many sexual contacts, so the characteristics responsible for it spread around the world. After all, managing to survive was only half the job, as Darwin proved. You also have to reproduce.
 
 9094: At the same time, the female organ which plays the role of the choosy clitoris, critically evaluating the capabilities of this large brain, is the female's own large brain, which therefore develops in parallel to the male's. (A human male brain weighs on average 1,440 grams, a female brain 1,250 grams.)
 
-### 3. The Problem With Subjectivity (Loc 9104) ###
+## 3. The Problem With Subjectivity (Loc 9104) ##
 
 9197: The chemical machine has simply not had time to adapt to modern society's relatively new circumstances, such as permanent stress in the form of a strictly regulated working life and mortgage repayments over a long, unbroken period of time. And because the machine is no longer entirely suited to these circumstances, there is nowadays a broad requirement for external assistance in adjusting the chemical balance of the soup.
 
 9361: As a result, it isn't just the literal religious believers who are reacting against the current process of secularisation, but a broad alliance of cultural conservatives from left and right, and a mass of other people who for various reasons are incapable of accepting counter-intuitive reasoning.
 
-### 4. The Myth of the Ego (Loc 9405) ###
+## 4. The Myth of the Ego (Loc 9405) ##
 
 9487: If we were more sophisticated that we actually are, or rather, if our brains saw through their own virtual simulation and therefore did not perceive what Metzinger called our ‘phenomenal ego-model’ as a genuinely existing ego, the cost would outweigh the benefits. We would probably end up paying a higher metabolic price –burn more sugar –without achieving anything more than practical difficulties and, in a lot of cases, existential angst for ourselves.
 
-### 5. The Myth of Free Will (Loc 9658) ###
+## 5. The Myth of Free Will (Loc 9658) ##
 
 **(no quotes from this chapter just yet, do you have any?!)**
 
-### 6. The Mechanisms of Thought (Loc 9956) ###
+## 6. The Mechanisms of Thought (Loc 9956) ##
 
 10001: As long as new patterns of incoming impulses appear in sequences which make it possible for the brain to recognise where it is, and, to a large extent, predict what is going to happen next, everything is fine. Tried and tested strategies still apply. Predictability is, as Hawkins stresses, the very definition of what we call reality.
 
@@ -76,7 +73,7 @@
 
 10190: The conditions for memes are tough, on the verge of inhuman. Human consciousness and its capacity for attention have distinct limitations, and the number of losers who drown in a constantly increasing torrent of information is astronomical.
 
-### 7. A Short History of Language (Loc 10239) ###
+## 7. A Short History of Language (Loc 10239) ##
 
 10295: And this, our fundamental ‘slave mentality’, deeply embedded in humankind's self-image, is precisely what got the philosopher Friedrich Nietzsche so upset when, in the late-nineteenth century, in books such as Thus Spoke Zarathustra and Ecce Homo, he dissected humanity, its history and conditions of life, and placed his hope in a different, future form of humanity: the superman who entirely rejects historically and genetically conditioned subordination.
 
@@ -106,7 +103,7 @@ The neurotic's masochistic pleasure can in principle carry on undisturbed for al
 
 10579: We once had a realistic awareness of our relative insignificance in the great scheme of things, and that awareness is once again within our grasp. But it is not at all certain that many of us will choose this clear-sighted perspective on ourselves and the world; it is always tempting to invent new excuses to continue nurturing a false self-image that flatters our vanity.
 
-### 8. The Rise and Fall of Morality (Loc 10583) ###
+## 8. The Rise and Fall of Morality (Loc 10583) ##
 
 10600: The atheist position is also, from a historical perspective, a humanist reaction against religion, and we're as uninterested in supporting humanism as we are in defending religion. We would therefore prefer not to be called atheists, by simply staying out of the whole debate. We believe instead that all classical metaphysical concepts like, for instance, The Father of the Tribe, the Creator of Everything, the Divine Clockmaker, the Soul, the Ego, and Santa Claus belong with horoscopes, crystals, pyramids and coffee grounds, none of which can be discussed in remotely serious terms. But what is interesting, on the other hand, are the reasons behind such metaphysics, and how they came about.
 
@@ -135,7 +132,7 @@ The neurotic's masochistic pleasure can in principle carry on undisturbed for al
 10867: We are therefore, ironically, in a historic age where the battle against militant quasi-ideologies is at the centre of events. The extreme madness of the desperate losers will steal our attention and energy for the foreseeable future, resources which we could otherwise use to develop a functional set of ethics for the new paradigm in peace and quiet. Instead, we are being forced to deal with moralists who are waging an embittered fight to the death against other moralists on many different fronts simultaneously.
 
 
-### 9. The Curse of Cultural Relativism ###
+## 9. The Curse of Cultural Relativism ##
 
 10960: The attraction of the New-Age movement is a direct consequence of the growing fear of the specialisation of modern science. Increasing epistemic complexity demands a good deal of talent and knowledge if it is to be possible to combine it with a moralising and hierarchical social identity. So a supra-ideology emerges, levelling all human ideologies and fantasies, without allowing any empirical examination or argumentative comparison of the different ideas. This is the supreme instance of equivalence in thought: it's all just ‘theories’, and each one is as good as the next. Everyone is free to believe what they like. Everything is fine as long as it is sufficiently shocking and entertaining to win dissemination among old gossips and ayurveda clinics. The world can't be more complex than this, otherwise our blinkers go on. This is the core of the New-Age movement: being genuinely talented and able to think is synonymous with being cruel to people who are untalented.
 This superficial attitude towards the Enlightenment's view of knowledge forces, paradoxically, the New-Age movement to create a huge demon which has to be presented as precisely inferior to all other fantasies –in other words, modern science itself. In order for chakra healing and pyramid energy to look like legitimate and interesting fields of knowledge, in order for ayurvedic treatments to be sold at a healthy profit, modern, high-technological discoveries such as the brain-scanner and the space telescope must be demonised. Knowledge is becoming evil.
@@ -151,7 +148,7 @@ This superficial attitude towards the Enlightenment's view of knowledge forces, 
 11027: The New-Age movement is the clearest example of our times of an opium for the masses: it is the consumtariat's self-destructive reaction to the emerging netocratic knowledge society, with its meritocratic hierarchies. While young netocrats order yet another latte in their metropolitan cafés, a consumtariat fixated with New-Age is looking for ghosts in a barn with television cameras in tow. The discrepancy between worldviews could hardly be greater.
 
 
-### 10. The Ethics of Interactivity (Loc 11193) ###
+## 10. The Ethics of Interactivity (Loc 11193) ##
 
 11317: They therefore imagined the subject as a sort of quasi-physiological substance with a specific spatial location, hidden somewhere within the human brain. The dualistic Enlightenment philosophers did not do this because they had found a separate subject of this sort in some scientific investigation, but because a distinction between body and soul was essential to save their beloved moralism.
 
@@ -164,7 +161,7 @@ This superficial attitude towards the Enlightenment's view of knowledge forces, 
 11444: The logic of network dynamics is this: I enjoy being the cause of your enjoyment. You experience enjoyment if and when you perceive yourself to be the object of my enjoyment. Consciousness of the conditions and possibilities for enjoyment-plus gives us an opportunity to cultivate a collective non-zero-sum game of enjoyment. Suddenly the desire to be the object of someone else's enjoyment looks like a constructive act. We are, quite simply, stimulating collective enjoyment by continually facilitating the production of even more enjoyment-plus. We are shamelessly making ourselves the objects of other people's enjoyment. Thus we ultimately also enjoy the existential experience of our relationship. This would not be possible if we did not first see the Net, the metaphysical constant of network society, as the cohesive factor.
 
 
-### 11. The Theory of Schizoanalysis ###
+## 11. The Theory of Schizoanalysis ##
 
 11548: You might imagine that we choose to presume that there are fundamental obstacles of an ontological sort which make it by definition impossible to unite the psychological way of seeing things with the psychoanalytical. Or you could think that we choose to presume that recent explanatory models are so complicated that not even the most brilliant experts could hope to master and move between these two areas of research to any meaningful degree. But regardless of what your starting point is, the discourse itself does not permit any comparisons between – still less any partial combination of – these two areas of knowledge. Psychology finds itself in the less than glamorous role of a science with no philosophical ambitions, while psychoanalysis, after a long series of clinical setbacks, has been downgraded to the status of applied philosophy with no scientific credibility. This means that if you want to understand yourself and your psyche better, you have to choose between either a therapist or an analyst. You can't have them both at the same time. The fear of once again ending up in the nineteenth century's war of attrition between materialism and idealism has a solid hold over public discourse.
 
@@ -173,17 +170,17 @@ This superficial attitude towards the Enlightenment's view of knowledge forces, 
 11729: This dividual seeks out intensity and longs for abstract events. The Event is therefore replacing Progress as the metaphysical engine. For the interactive netocrat, this means that the more numerous, and the more exciting personalities which can be contained within one and the same nominal psyche, the stronger the identity and greater the creativity that the dividual – for good and ill – will be able to produce, experience, and represent in interactive society. The Dividual is thus striving to become an event itself; not a permanent event (like the Individual), but many different events in the plural, continually new intensities which come and go through the Dividual, a fluid self-image in a constantly changing world.
 
 
-### 12. The Practice of Schizoanalysis ###
+## 12. The Practice of Schizoanalysis ##
 
 **(no quotes from this chapter just yet, do you have any?!)**
 
 
-### +1. (A Sort of Afterword) ###
+## +1. (A Sort of Afterword) ##
 
 **(no quotes from this chapter just yet, do you have any?!)**
 
 
-### Futurica Glossary ###
+## Futurica Glossary ##
 
 **(no quotes from this chapter just yet, do you have any?!)**
 

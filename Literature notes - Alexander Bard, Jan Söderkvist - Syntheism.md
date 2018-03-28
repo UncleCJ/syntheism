@@ -1,6 +1,6 @@
 # Syntheism #
 
-## Syntheism contents ##
+## Contents ##
 
 - 1. Everything is religion
 - 2. The three dramatic revolutions of the Internet age

@@ -1,8 +1,6 @@
 ## The Netocrats –The Futurica Trilogy, Part 1 (Loc 45) ##
 
-## The Futurica Trilogy Contents ##
-
-**The Netocrats –The Futurica Trilogy, Part 1 (Loc 45)**
+### Contents ###
 
 - Introduction (Loc 45)
 - 1. Technology as the driving force of history (Loc 83)
@@ -16,7 +14,6 @@
 - 9. Network pyramids –attentionalistic power hierarchies (Loc 2494)
 - 10. Sex and tribalism, virtual education and the inequality of the brain (Loc 2751)
 - 11. Behind the firewalls –netocratic civil war and virtual revolutionaries (Loc 3105)
-
 
 ### Introduction (Loc 45) ###
 
