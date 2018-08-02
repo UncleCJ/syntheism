@@ -18,3 +18,12 @@ Edit 2018–08–02: Gently revised article
 http://www.dailymotion.com/video/x2mbfhh
 
 http://timewellspent.io/
+
+https://www.svt.se/nyheter/lokalt/blekinge/busschaufforer-som-vagrar-prideflaggor-straffas
+
+https://www.thelocal.se/20161126/swedish-municipality-sends-all-workers-on-lgbt-course
+
+http://www.gp.se/nyheter/g%C3%B6teborg/%C3%B6cker%C3%B6-s%C3%A4ger-nej-till-regnb%C3%A5gsflagga-1.1900527
+
+https://www.qx.se/samhalle/28900/orebro-vagrar-hissa-regnbagsflaggan/
+
